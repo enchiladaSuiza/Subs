@@ -92,216 +92,216 @@ Dialogue: 0,0:00:57.22,0:00:57.26,Sign #1,,0,0,0,,{\c&HB0A3AE&\blur0.6\pos(334.2
 Dialogue: 0,0:00:57.26,0:00:57.30,Sign #1,,0,0,0,,{\c&HB0A3AE&\blur0.6\pos(335.105,193.48)}Kodama Cantahilu
 Dialogue: 0,0:00:57.30,0:00:57.34,Sign #1,,0,0,0,,{\c&HB0A3AE&\blur0.6\pos(336.008,194.51)}Kodama Cantahilu
 Dialogue: 0,0:00:57.34,0:00:57.39,Sign #1,,0,0,0,,{\c&HB0A3AE&\blur0.6\pos(336.936,195.529)}Kodama Cantahilu
-Dialogue: 0,0:01:44.93,0:01:44.97,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244,409)}Fresh
-Dialogue: 0,0:01:44.93,0:01:44.97,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(322,485)}Milk
-Dialogue: 0,0:01:44.97,0:01:45.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.985,409.005)}Fresh
-Dialogue: 0,0:01:44.97,0:01:45.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.985,485.005)}Milk
-Dialogue: 0,0:01:45.02,0:01:45.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.937,409.021)}Fresh
-Dialogue: 0,0:01:45.02,0:01:45.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.937,485.021)}Milk
-Dialogue: 0,0:01:45.06,0:01:45.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.908,409.029)}Fresh
-Dialogue: 0,0:01:45.06,0:01:45.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.908,485.029)}Milk
-Dialogue: 0,0:01:45.10,0:01:45.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.899,408.819)}Fresh
-Dialogue: 0,0:01:45.10,0:01:45.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.899,484.819)}Milk
-Dialogue: 0,0:01:45.14,0:01:45.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244.105,408.351)}Fresh
-Dialogue: 0,0:01:45.14,0:01:45.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(322.105,484.351)}Milk
-Dialogue: 0,0:01:45.18,0:01:45.22,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244.198,408.008)}Fresh
-Dialogue: 0,0:01:45.18,0:01:45.22,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(322.198,484.008)}Milk
-Dialogue: 0,0:01:45.22,0:01:45.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.69,408.01)}Fresh
-Dialogue: 0,0:01:45.22,0:01:45.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.69,484.01)}Milk
-Dialogue: 0,0:01:45.27,0:01:45.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.007,408.013)}Fresh
-Dialogue: 0,0:01:45.27,0:01:45.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(321.007,484.013)}Milk
-Dialogue: 0,0:01:45.31,0:01:45.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.544,407.992)}Fresh
-Dialogue: 0,0:01:45.31,0:01:45.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(320.544,483.992)}Milk
-Dialogue: 0,0:01:45.35,0:01:45.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.459,407.963)}Fresh
-Dialogue: 0,0:01:45.35,0:01:45.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(320.459,483.963)}Milk
-Dialogue: 0,0:01:45.39,0:01:45.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.664,408.065)}Fresh
-Dialogue: 0,0:01:45.39,0:01:45.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(320.664,484.065)}Milk
-Dialogue: 0,0:01:45.43,0:01:45.47,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.804,408.25)}Fresh
-Dialogue: 0,0:01:45.43,0:01:45.47,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(320.804,484.25)}Milk
-Dialogue: 0,0:01:45.47,0:01:45.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.889,408.281)}Fresh
-Dialogue: 0,0:01:45.47,0:01:45.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.889,484.281)}Milk
-Dialogue: 0,0:01:45.52,0:01:45.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.997,408.317)}Fresh
-Dialogue: 0,0:01:45.52,0:01:45.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.997,484.317)}Milk
-Dialogue: 0,0:01:45.56,0:01:45.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.821,408.34)}Fresh
-Dialogue: 0,0:01:45.56,0:01:45.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.821,484.34)}Milk
-Dialogue: 0,0:01:45.60,0:01:45.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.839,408.478)}Fresh
-Dialogue: 0,0:01:45.60,0:01:45.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.839,484.478)}Milk
-Dialogue: 0,0:01:45.64,0:01:45.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.987,408.691)}Fresh
-Dialogue: 0,0:01:45.64,0:01:45.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.987,484.691)}Milk
-Dialogue: 0,0:01:45.68,0:01:45.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.156,409.016)}Fresh
-Dialogue: 0,0:01:45.68,0:01:45.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.156,485.016)}Milk
-Dialogue: 0,0:01:45.73,0:01:45.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.241,409.584)}Fresh
-Dialogue: 0,0:01:45.73,0:01:45.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.241,485.584)}Milk
-Dialogue: 0,0:01:45.77,0:01:45.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.853,410.426)}Fresh
-Dialogue: 0,0:01:45.77,0:01:45.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.853,486.426)}Milk
-Dialogue: 0,0:01:45.81,0:01:45.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.389,411.048)}Fresh
-Dialogue: 0,0:01:45.81,0:01:45.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.389,487.048)}Milk
-Dialogue: 0,0:01:45.85,0:01:45.89,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.853,410.917)}Fresh
-Dialogue: 0,0:01:45.85,0:01:45.89,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.853,486.917)}Milk
-Dialogue: 0,0:01:45.89,0:01:45.93,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.478,410.535)}Fresh
-Dialogue: 0,0:01:45.89,0:01:45.93,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.478,486.535)}Milk
-Dialogue: 0,0:01:45.93,0:01:45.98,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.66,410.479)}Fresh
-Dialogue: 0,0:01:45.93,0:01:45.98,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.66,486.479)}Milk
-Dialogue: 0,0:01:45.98,0:01:46.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.454,410.529)}Fresh
-Dialogue: 0,0:01:45.98,0:01:46.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.454,486.529)}Milk
-Dialogue: 0,0:01:46.02,0:01:46.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.101,410.589)}Fresh
-Dialogue: 0,0:01:46.02,0:01:46.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(319.101,486.589)}Milk
-Dialogue: 0,0:01:46.06,0:01:46.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.948,410.586)}Fresh
-Dialogue: 0,0:01:46.06,0:01:46.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.948,486.586)}Milk
-Dialogue: 0,0:01:46.10,0:01:46.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.741,410.537)}Fresh
-Dialogue: 0,0:01:46.10,0:01:46.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.741,486.537)}Milk
-Dialogue: 0,0:01:46.14,0:01:46.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.415,410.29)}Fresh
-Dialogue: 0,0:01:46.14,0:01:46.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.415,486.29)}Milk
-Dialogue: 0,0:01:46.18,0:01:46.23,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.12,410.084)}Fresh
-Dialogue: 0,0:01:46.18,0:01:46.23,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(318.12,486.084)}Milk
-Dialogue: 0,0:01:46.23,0:01:46.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.879,410.115)}Fresh
-Dialogue: 0,0:01:46.23,0:01:46.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.879,486.115)}Milk
-Dialogue: 0,0:01:46.27,0:01:46.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.642,410.197)}Fresh
-Dialogue: 0,0:01:46.27,0:01:46.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.642,486.197)}Milk
-Dialogue: 0,0:01:46.31,0:01:46.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.38,410.156)}Fresh
-Dialogue: 0,0:01:46.31,0:01:46.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.38,486.156)}Milk
-Dialogue: 0,0:01:46.35,0:01:46.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.366,409.872)}Fresh
-Dialogue: 0,0:01:46.35,0:01:46.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.366,485.872)}Milk
-Dialogue: 0,0:01:46.39,0:01:46.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.386,409.479)}Fresh
-Dialogue: 0,0:01:46.39,0:01:46.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.386,485.479)}Milk
-Dialogue: 0,0:01:46.43,0:01:46.48,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.35,409.24)}Fresh
-Dialogue: 0,0:01:46.43,0:01:46.48,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(317.35,485.24)}Milk
-Dialogue: 0,0:01:46.48,0:01:46.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.97,409.099)}Fresh
-Dialogue: 0,0:01:46.48,0:01:46.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.97,485.099)}Milk
-Dialogue: 0,0:01:46.52,0:01:46.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.504,408.992)}Fresh
-Dialogue: 0,0:01:46.52,0:01:46.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.504,484.992)}Milk
-Dialogue: 0,0:01:46.56,0:01:46.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.303,408.952)}Fresh
-Dialogue: 0,0:01:46.56,0:01:46.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.303,484.952)}Milk
-Dialogue: 0,0:01:46.60,0:01:46.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.192,408.929)}Fresh
-Dialogue: 0,0:01:46.60,0:01:46.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.192,484.929)}Milk
-Dialogue: 0,0:01:46.64,0:01:46.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.3,409.055)}Fresh
-Dialogue: 0,0:01:46.64,0:01:46.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.3,485.055)}Milk
-Dialogue: 0,0:01:46.68,0:01:46.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.479,409.274)}Fresh
-Dialogue: 0,0:01:46.68,0:01:46.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.479,485.274)}Milk
-Dialogue: 0,0:01:46.73,0:01:46.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.523,409.267)}Fresh
-Dialogue: 0,0:01:46.73,0:01:46.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.523,485.267)}Milk
-Dialogue: 0,0:01:46.77,0:01:46.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.606,409.236)}Fresh
-Dialogue: 0,0:01:46.77,0:01:46.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.606,485.236)}Milk
-Dialogue: 0,0:01:46.81,0:01:46.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.611,409.16)}Fresh
-Dialogue: 0,0:01:46.81,0:01:46.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(316.611,485.16)}Milk
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs40\blur0.6\c&H777B87&\pos(450,380)}2nd Year Exam Schedule
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(136,470)}1st Period
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(245,470)}2nd Period
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(347,470)}3rd Period
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(451,470)}4th Period
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs27\blur0.6\c&H899096&\pos(133,523)}Mod. Lit.
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs27\blur0.6\c&H899096&\pos(243,523)}Geography
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(132,604)}English II
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(242,604)}Chemistry
-Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(325,604)}Health
-Dialogue: 0,0:02:30.10,0:02:30.14,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624,152)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.14,0:02:30.19,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624.141,152.641)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.19,0:02:30.23,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624.116,153.136)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.23,0:02:30.27,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(623.983,153.862)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.27,0:02:30.31,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(623.746,154.277)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.31,0:02:30.35,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(623.188,155.155)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.35,0:02:30.39,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(622.578,156.053)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.39,0:02:30.44,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(622.495,155.879)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.44,0:02:30.48,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(622.305,155.453)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.48,0:02:30.52,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(621.937,155.354)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.52,0:02:30.56,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(621.508,154.655)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.56,0:02:30.60,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(621.379,153.947)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.60,0:02:30.65,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(621.678,153.26)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.65,0:02:30.69,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(622.637,152.586)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.69,0:02:30.73,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(623.882,152.083)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.73,0:02:30.77,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624.829,151.202)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.77,0:02:30.81,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(625.35,150.029)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.81,0:02:30.85,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(625.385,149.014)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.85,0:02:30.90,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624.94,149.004)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.90,0:02:30.94,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(624.271,148.794)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.94,0:02:30.98,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(623.342,148.359)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:30.98,0:02:31.02,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(622.138,147.775)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:31.02,0:02:31.06,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(620.9,147.244)\c&H22292B&}Rehearsing For You
-Dialogue: 0,0:02:31.06,0:02:31.10,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(619.656,147.216)\c&H22292B&}Rehearsing For You
+Dialogue: 0,0:01:44.93,0:01:44.97,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244,409)}Leche
+Dialogue: 0,0:01:44.93,0:01:44.97,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(312,485)}Fresca
+Dialogue: 0,0:01:44.97,0:01:45.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.985,409.005)}Leche
+Dialogue: 0,0:01:44.97,0:01:45.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(312.985,485.005)}Fresca
+Dialogue: 0,0:01:45.02,0:01:45.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.937,409.021)}Leche
+Dialogue: 0,0:01:45.02,0:01:45.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(311.937,485.021)}Fresca
+Dialogue: 0,0:01:45.06,0:01:45.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.908,409.029)}Leche
+Dialogue: 0,0:01:45.06,0:01:45.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(311.908,485.029)}Fresca
+Dialogue: 0,0:01:45.10,0:01:45.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.899,408.819)}Leche
+Dialogue: 0,0:01:45.10,0:01:45.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(311.899,484.819)}Fresca
+Dialogue: 0,0:01:45.14,0:01:45.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244.105,408.351)}Leche
+Dialogue: 0,0:01:45.14,0:01:45.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(312.105,484.351)}Fresca
+Dialogue: 0,0:01:45.18,0:01:45.22,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(244.198,408.008)}Leche
+Dialogue: 0,0:01:45.18,0:01:45.22,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(312.198,484.008)}Fresca
+Dialogue: 0,0:01:45.22,0:01:45.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.69,408.01)}Leche
+Dialogue: 0,0:01:45.22,0:01:45.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(311.69,484.01)}Fresca
+Dialogue: 0,0:01:45.27,0:01:45.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(243.007,408.013)}Leche
+Dialogue: 0,0:01:45.27,0:01:45.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(311.007,484.013)}Fresca
+Dialogue: 0,0:01:45.31,0:01:45.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.544,407.992)}Leche
+Dialogue: 0,0:01:45.31,0:01:45.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(310.544,483.992)}Fresca
+Dialogue: 0,0:01:45.35,0:01:45.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.459,407.963)}Leche
+Dialogue: 0,0:01:45.35,0:01:45.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(310.459,483.963)}Fresca
+Dialogue: 0,0:01:45.39,0:01:45.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.664,408.065)}Leche
+Dialogue: 0,0:01:45.39,0:01:45.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(310.664,484.065)}Fresca
+Dialogue: 0,0:01:45.43,0:01:45.47,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(242.804,408.25)}Leche
+Dialogue: 0,0:01:45.43,0:01:45.47,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(310.804,484.25)}Fresca
+Dialogue: 0,0:01:45.47,0:01:45.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.889,408.281)}Leche
+Dialogue: 0,0:01:45.47,0:01:45.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.889,484.281)}Fresca
+Dialogue: 0,0:01:45.52,0:01:45.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.997,408.317)}Leche
+Dialogue: 0,0:01:45.52,0:01:45.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.997,484.317)}Fresca
+Dialogue: 0,0:01:45.56,0:01:45.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.821,408.34)}Leche
+Dialogue: 0,0:01:45.56,0:01:45.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.821,484.34)}Fresca
+Dialogue: 0,0:01:45.60,0:01:45.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.839,408.478)}Leche
+Dialogue: 0,0:01:45.60,0:01:45.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.839,484.478)}Fresca
+Dialogue: 0,0:01:45.64,0:01:45.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.987,408.691)}Leche
+Dialogue: 0,0:01:45.64,0:01:45.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.987,484.691)}Fresca
+Dialogue: 0,0:01:45.68,0:01:45.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.156,409.016)}Leche
+Dialogue: 0,0:01:45.68,0:01:45.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.156,485.016)}Fresca
+Dialogue: 0,0:01:45.73,0:01:45.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.241,409.584)}Leche
+Dialogue: 0,0:01:45.73,0:01:45.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.241,485.584)}Fresca
+Dialogue: 0,0:01:45.77,0:01:45.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.853,410.426)}Leche
+Dialogue: 0,0:01:45.77,0:01:45.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.853,486.426)}Fresca
+Dialogue: 0,0:01:45.81,0:01:45.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.389,411.048)}Leche
+Dialogue: 0,0:01:45.81,0:01:45.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.389,487.048)}Fresca
+Dialogue: 0,0:01:45.85,0:01:45.89,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.853,410.917)}Leche
+Dialogue: 0,0:01:45.85,0:01:45.89,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.853,486.917)}Fresca
+Dialogue: 0,0:01:45.89,0:01:45.93,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.478,410.535)}Leche
+Dialogue: 0,0:01:45.89,0:01:45.93,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.478,486.535)}Fresca
+Dialogue: 0,0:01:45.93,0:01:45.98,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.66,410.479)}Leche
+Dialogue: 0,0:01:45.93,0:01:45.98,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.66,486.479)}Fresca
+Dialogue: 0,0:01:45.98,0:01:46.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.454,410.529)}Leche
+Dialogue: 0,0:01:45.98,0:01:46.02,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.454,486.529)}Fresca
+Dialogue: 0,0:01:46.02,0:01:46.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(241.101,410.589)}Leche
+Dialogue: 0,0:01:46.02,0:01:46.06,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(309.101,486.589)}Fresca
+Dialogue: 0,0:01:46.06,0:01:46.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.948,410.586)}Leche
+Dialogue: 0,0:01:46.06,0:01:46.10,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.948,486.586)}Fresca
+Dialogue: 0,0:01:46.10,0:01:46.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.741,410.537)}Leche
+Dialogue: 0,0:01:46.10,0:01:46.14,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.741,486.537)}Fresca
+Dialogue: 0,0:01:46.14,0:01:46.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.415,410.29)}Leche
+Dialogue: 0,0:01:46.14,0:01:46.18,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.415,486.29)}Fresca
+Dialogue: 0,0:01:46.18,0:01:46.23,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(240.12,410.084)}Leche
+Dialogue: 0,0:01:46.18,0:01:46.23,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(308.12,486.084)}Fresca
+Dialogue: 0,0:01:46.23,0:01:46.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.879,410.115)}Leche
+Dialogue: 0,0:01:46.23,0:01:46.27,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.879,486.115)}Fresca
+Dialogue: 0,0:01:46.27,0:01:46.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.642,410.197)}Leche
+Dialogue: 0,0:01:46.27,0:01:46.31,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.642,486.197)}Fresca
+Dialogue: 0,0:01:46.31,0:01:46.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.38,410.156)}Leche
+Dialogue: 0,0:01:46.31,0:01:46.35,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.38,486.156)}Fresca
+Dialogue: 0,0:01:46.35,0:01:46.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.366,409.872)}Leche
+Dialogue: 0,0:01:46.35,0:01:46.39,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.366,485.872)}Fresca
+Dialogue: 0,0:01:46.39,0:01:46.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.386,409.479)}Leche
+Dialogue: 0,0:01:46.39,0:01:46.43,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.386,485.479)}Fresca
+Dialogue: 0,0:01:46.43,0:01:46.48,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(239.35,409.24)}Leche
+Dialogue: 0,0:01:46.43,0:01:46.48,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(307.35,485.24)}Fresca
+Dialogue: 0,0:01:46.48,0:01:46.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.97,409.099)}Leche
+Dialogue: 0,0:01:46.48,0:01:46.52,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.97,485.099)}Fresca
+Dialogue: 0,0:01:46.52,0:01:46.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.504,408.992)}Leche
+Dialogue: 0,0:01:46.52,0:01:46.56,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.504,484.992)}Fresca
+Dialogue: 0,0:01:46.56,0:01:46.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.303,408.952)}Leche
+Dialogue: 0,0:01:46.56,0:01:46.60,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.303,484.952)}Fresca
+Dialogue: 0,0:01:46.60,0:01:46.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.192,408.929)}Leche
+Dialogue: 0,0:01:46.60,0:01:46.64,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.192,484.929)}Fresca
+Dialogue: 0,0:01:46.64,0:01:46.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.3,409.055)}Leche
+Dialogue: 0,0:01:46.64,0:01:46.68,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.3,485.055)}Fresca
+Dialogue: 0,0:01:46.68,0:01:46.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.479,409.274)}Leche
+Dialogue: 0,0:01:46.68,0:01:46.73,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.479,485.274)}Fresca
+Dialogue: 0,0:01:46.73,0:01:46.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.523,409.267)}Leche
+Dialogue: 0,0:01:46.73,0:01:46.77,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.523,485.267)}Fresca
+Dialogue: 0,0:01:46.77,0:01:46.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.606,409.236)}Leche
+Dialogue: 0,0:01:46.77,0:01:46.81,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.606,485.236)}Fresca
+Dialogue: 0,0:01:46.81,0:01:46.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\pos(238.611,409.16)}Leche
+Dialogue: 0,0:01:46.81,0:01:46.85,Sign #2,,0,0,0,,{\fs20\blur0.6\c&H5B5859&\frz4.858\pos(306.611,485.16)}Fresca
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs40\blur0.6\c&H777B87&\pos(450,380)}Itinerario para exámenes de 2do año
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(136,470)}1a hora
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(245,470)}2a hora
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H949DA6&\pos(347,470)}3a hora
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(451,470)}4a hora
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs27\blur0.6\c&H899096&\pos(133,523)}Literatura
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs27\blur0.6\c&H899096&\pos(249,523)}Geografía
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(132,604)}Inglés II
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(242,604)}Química
+Dialogue: 0,0:01:58.65,0:01:59.45,Sign #3,,0,0,0,,{\an6\fs28\blur0.6\c&H899096&\pos(325,604)}Salud
+Dialogue: 0,0:02:30.10,0:02:30.14,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640,180)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.14,0:02:30.19,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640.141,180.641)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.19,0:02:30.23,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640.116,181.136)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.23,0:02:30.27,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(639.983,181.862)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.27,0:02:30.31,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(639.746,182.277)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.31,0:02:30.35,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(639.188,183.155)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.35,0:02:30.39,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(638.578,184.053)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.39,0:02:30.44,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(638.495,183.879)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.44,0:02:30.48,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(638.305,183.453)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.48,0:02:30.52,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(637.937,183.354)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.52,0:02:30.56,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(637.508,182.655)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.56,0:02:30.60,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(637.379,181.947)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.60,0:02:30.65,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(637.678,181.26)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.65,0:02:30.69,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(638.637,180.586)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.69,0:02:30.73,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(639.882,180.083)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.73,0:02:30.77,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640.829,179.202)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.77,0:02:30.81,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(641.35,178.029)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.81,0:02:30.85,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(641.385,177.014)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.85,0:02:30.90,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640.94,177.004)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.90,0:02:30.94,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(640.271,176.794)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.94,0:02:30.98,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(639.342,176.359)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:30.98,0:02:31.02,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(638.138,175.775)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:31.02,0:02:31.06,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(636.9,175.244)\c&H22292B&}Ensayando
+Dialogue: 0,0:02:31.06,0:02:31.10,Sign #4,,0,0,0,,{\blur0.6\fs40\fay0.22\fax0.1\pos(635.656,175.216)\c&H22292B&}Ensayando
 Dialogue: 1,0:05:57.10,0:06:01.02,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k56}o{\k32}ha{\k17}yo{\k75}u {\k43}pi{\k15}ka{\k30}pi{\k14}ka {\k47}a{\k46}sa{\k14}hi
 Dialogue: 0,0:05:57.10,0:06:01.02,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}ohayou pikapika asahi
-Dialogue: 1,0:05:57.10,0:06:01.02,TL-OP,,0,0,0,,{\fad(150,150)}Good morning! The sparkly morning sun casts
-Dialogue: 0,0:05:57.10,0:06:01.02,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Good morning! The sparkly morning sun casts
+Dialogue: 1,0:05:57.10,0:06:01.02,TL-OP,,0,0,0,,{\fad(150,150)}¡Buenos días! El radiante sol de la mañana
+Dialogue: 0,0:05:57.10,0:06:01.02,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}¡Buenos días! El radiante sol de la mañana
 Dialogue: 1,0:06:01.02,0:06:04.57,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k35}ze{\k9}n{\k36}shi{\k15}n {\k63}ni {\k44}ki{\k19}n{\k29}i{\k17}ro {\k12}spo{\k10}tto{\k35}rai{\k23}to
 Dialogue: 0,0:06:01.02,0:06:04.57,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}zenshin ni kiniro spottoraito
-Dialogue: 1,0:06:01.02,0:06:04.57,TL-OP,,0,0,0,,{\fad(150,150)}A golden spotlight all over my body
-Dialogue: 0,0:06:01.02,0:06:04.57,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}A golden spotlight all over my body
+Dialogue: 1,0:06:01.02,0:06:04.57,TL-OP,,0,0,0,,{\fad(150,150)}Me cubre de una luz dorada
+Dialogue: 0,0:06:01.02,0:06:04.57,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Me cubre de una luz dorada
 Dialogue: 1,0:06:04.57,0:06:12.20,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k48}u{\k30}fu {\k21}u{\k72}fu {\k46}haa{\k17}to {\k31}no {\k16}a{\k31}ta{\k58}ri {\k80}ii {\k15}ko{\k77}to {\k45}a{\k17}ri{\k27}sou {\k19}na {\k45}yo{\k46}ka{\k29}n
 Dialogue: 0,0:06:04.57,0:06:12.20,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}ufu ufu haato no atari ii koto arisou na yokan
-Dialogue: 1,0:06:04.57,0:06:12.20,TL-OP,,0,0,0,,{\fad(150,150)}Tehehe, I can tell something great will happen today
-Dialogue: 0,0:06:04.57,0:06:12.20,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Tehehe, I can tell something great will happen today
+Dialogue: 1,0:06:04.57,0:06:12.20,TL-OP,,0,0,0,,{\fad(150,150)}Jujuju, siento en mi corazón que algo bueno va a suceder
+Dialogue: 0,0:06:04.57,0:06:12.20,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Jujuju, siento en mi corazón que algo bueno va a suceder
 Dialogue: 1,0:06:12.20,0:06:15.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k64}ko{\k73}ko{\k19}ro {\k31}nan{\k20}se{\k39}n{\k85}chi
 Dialogue: 0,0:06:12.20,0:06:15.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}kokoro nansenchi
-Dialogue: 1,0:06:12.20,0:06:15.54,TL-OP,,0,0,0,,{\fad(150,150)}How do you measure a soul? (I want to know)
-Dialogue: 0,0:06:12.20,0:06:15.54,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}How do you measure a soul? (I want to know)
+Dialogue: 1,0:06:12.20,0:06:15.54,TL-OP,,0,0,0,,{\fad(150,150)}¿Cómo medir un alma? (quiero saber)
+Dialogue: 0,0:06:12.20,0:06:15.54,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}¿Cómo medir un alma? (quiero saber)
 Dialogue: 1,0:06:14.74,0:06:17.45,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9}{\k47}(shi{\k29}ri{\k23}ta{\k88}i {\k85}na)
 Dialogue: 0,0:06:14.74,0:06:17.45,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(shiritai na)
 Dialogue: 1,0:06:15.54,0:06:19.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k64}do{\k24}n{\k16}na {\k30}ka{\k13}ta{\k29}chi {\k45}shi{\k21}te{\k44}ru {\k115}no
 Dialogue: 0,0:06:15.54,0:06:19.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}donna katachi shiteru no
-Dialogue: 1,0:06:15.54,0:06:19.54,TL-OP,,0,0,0,,{\fad(150,150)}What kind of shape is it? (A circle, an X, or a square?)
-Dialogue: 0,0:06:15.54,0:06:19.54,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}What kind of shape is it? (A circle, an X, or a square?)
+Dialogue: 1,0:06:15.54,0:06:19.54,TL-OP,,0,0,0,,{\fad(150,150)}¿Qué forma tiene? (¿cuadrado, círculo, o tache?)
+Dialogue: 0,0:06:15.54,0:06:19.54,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}¿Qué forma tiene? (¿cuadrado, círculo, o tache?)
 Dialogue: 1,0:06:18.41,0:06:19.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k37}(ma{\k15}ru {\k10}ba{\k17}tsu {\k16}shi{\k12}ka{\k10}ku)
 Dialogue: 0,0:06:18.41,0:06:19.54,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(maru batsu shikaku)
 Dialogue: 1,0:06:19.54,0:06:25.63,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k23}wa{\k28}ka{\k19}nna{\k33}i {\k44}de{\k17}mo {\k16}da{\k13}i{\k19}su{\k28}ki {\k45}ga {\k44}fu{\k21}re{\k135}ru {\k46}ba{\k77}sho
 Dialogue: 0,0:06:19.54,0:06:25.63,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}wakannai demo daisuki ga fureru basho
-Dialogue: 1,0:06:19.54,0:06:25.63,TL-OP,,0,0,0,,{\fad(150,150)}I'm not sure, but it's a (warm) place where I can feel your love (Exactly!)
-Dialogue: 0,0:06:19.54,0:06:25.63,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}I'm not sure, but it's a (warm) place where I can feel your love (Exactly!)
+Dialogue: 1,0:06:19.54,0:06:25.63,TL-OP,,0,0,0,,{\fad(150,150)}No lo sé, pero es un lugar (calientito) donde el amor se agita (¡así es!)
+Dialogue: 0,0:06:19.54,0:06:25.63,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}{\fad(150,150)}No lo sé, pero es un lugar (calientito) donde el amor se agita (¡así es!)
 Dialogue: 1,0:06:22.54,0:06:26.71,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k96}(a{\k48}tta{\k160}kai) {\k25}(sei{\k87}kai)
 Dialogue: 0,0:06:22.54,0:06:26.71,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(attakai) (seikai)
 Dialogue: 1,0:06:25.63,0:06:30.59,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k65}da{\k29}ka{\k17}ra {\k12}i{\k15}chi{\k28}ba{\k16}n {\k16}wo {\k35}sa{\k11}ga{\k34}shi {\k17}ni {\k18}de{\k18}a{\k8}i {\k31}ni {\k15}i{\k45}kou {\k65}yo
 Dialogue: 0,0:06:25.63,0:06:30.59,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}dakara ichiban wo sagashi ni deai ni ikou yo
-Dialogue: 1,0:06:25.63,0:06:30.59,TL-OP,,0,0,0,,{\fad(150,150)}So let's go meet at our favorite place (Let's go)
-Dialogue: 0,0:06:25.63,0:06:30.59,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}So let's go meet at our favorite place (Let's go)
+Dialogue: 1,0:06:25.63,0:06:30.59,TL-OP,,0,0,0,,{\fad(150,150)}Así que encontrémonos en nuestro lugar favorito ({\i1}let's go{\i0})
+Dialogue: 0,0:06:25.63,0:06:30.59,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Así que encontrémonos en nuestro lugar favorito ({\i1}let's go{\i0})
 Dialogue: 1,0:06:29.68,0:06:30.59,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k63}(re{\k13}tsu {\k15}goo)
 Dialogue: 0,0:06:29.68,0:06:30.59,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(retsu goo)
 Dialogue: 1,0:06:30.59,0:06:33.93,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k28}ga{\k31}kkou {\k15}o{\k31}to {\k14}u{\k31}ta {\k17}o{\k46}cha {\k47}o{\k43}ka{\k33}shi
 Dialogue: 0,0:06:30.59,0:06:33.93,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}gakkou oto uta ocha okashi
-Dialogue: 1,0:06:30.59,0:06:33.93,TL-OP,,0,0,0,,{\fad(150,150)}For school, music, singing, tea, and snacks
-Dialogue: 0,0:06:30.59,0:06:33.93,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}For school, music, singing, tea, and snacks
+Dialogue: 1,0:06:30.59,0:06:33.93,TL-OP,,0,0,0,,{\fad(150,150)}Escuela, música, canciones, té, dulces
+Dialogue: 0,0:06:30.59,0:06:33.93,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Escuela, música, canciones, té, dulces
 Dialogue: 1,0:06:33.93,0:06:37.77,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k19}hya{\k12}k{\k16}ko{\k16}me {\k31}no {\k15}i{\k32}chi{\k15}ba{\k26}n {\k21}mo {\k11}so{\k20}re {\k15}wa {\k29}i{\k16}chi{\k31}ba{\k16}n {\k63}de
 Dialogue: 0,0:06:33.93,0:06:37.77,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}hyakkome no ichiban mo sore wa ichiban de
-Dialogue: 1,0:06:33.93,0:06:37.77,TL-OP,,0,0,0,,{\fad(150,150)}Even if we've met one hundred times, it's still the best place
-Dialogue: 0,0:06:33.93,0:06:37.77,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Even if we've met one hundred times, it's still the best place
+Dialogue: 1,0:06:33.93,0:06:37.77,TL-OP,,0,0,0,,{\fad(150,150)}Son lo mejor incluso después de cien veces
+Dialogue: 0,0:06:33.93,0:06:37.77,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Son lo mejor incluso después de cien veces
 Dialogue: 1,0:06:37.77,0:06:41.44,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k51}de{\k18}a{\k13}t{\k43}te {\k25}da{\k12}i{\k26}su{\k27}ki {\k17}ni {\k20}na{\k13}t{\k102}te
 Dialogue: 0,0:06:37.77,0:06:41.44,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}deatte daisuki ni natte
-Dialogue: 1,0:06:37.77,0:06:41.44,TL-OP,,0,0,0,,{\fad(150,150)}We meet each other, and fall in love (And built trust)
-Dialogue: 0,0:06:37.77,0:06:41.44,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}We meet each other, and fall in love (And built trust)
+Dialogue: 1,0:06:37.77,0:06:41.44,TL-OP,,0,0,0,,{\fad(150,150)}Conozcámonos, enamorémonos (creamos)
+Dialogue: 0,0:06:37.77,0:06:41.44,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Conozcámonos, enamorémonos (creamos)
 Dialogue: 1,0:06:40.73,0:06:41.94,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k46}(shi{\k16}n{\k16}ji{\k45}te)
 Dialogue: 0,0:06:40.73,0:06:41.94,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(shinjite)
 Dialogue: 1,0:06:41.44,0:06:44.61,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k49}da{\k30}ki{\k17}shi{\k31}me{\k46}te {\k16}te{\k30}ba{\k14}na{\k31}shi{\k49}te
 Dialogue: 0,0:06:41.44,0:06:44.61,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}dakishimete tebanashite
-Dialogue: 1,0:06:41.44,0:06:44.61,TL-OP,,0,0,0,,{\fad(150,150)}We hug each other, then let go
-Dialogue: 0,0:06:41.44,0:06:44.61,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}We hug each other, then let go
+Dialogue: 1,0:06:41.44,0:06:44.61,TL-OP,,0,0,0,,{\fad(150,150)}Abracémonos, dejémonos ir
+Dialogue: 0,0:06:41.44,0:06:44.61,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Abracémonos, dejémonos ir
 Dialogue: 1,0:06:44.61,0:06:48.99,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k62}a{\k139}a {\k44}ma{\k47}ta {\k45}de{\k34}a{\k13}t{\k55}te
 Dialogue: 0,0:06:44.61,0:06:48.99,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}aa mata deatte
-Dialogue: 1,0:06:44.61,0:06:48.99,TL-OP,,0,0,0,,{\fad(150,150)}Ah, (See you, Good-bye) and then we meet again (Hello)
-Dialogue: 0,0:06:44.61,0:06:48.99,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Ah, (See you, Good-bye) and then we meet again (Hello)
+Dialogue: 1,0:06:44.61,0:06:48.99,TL-OP,,0,0,0,,{\fad(150,150)}Ah, ({\i1}see you{\i0}, {\i1}good-bye{\i0}) conozcámonos otra vez ({\i1}hello{\i0})
+Dialogue: 0,0:06:44.61,0:06:48.99,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Ah, ({\i1}see you{\i0}, {\i1}good-bye{\i0}) conozcámonos otra vez ({\i1}hello{\i0})
 Dialogue: 1,0:06:45.48,0:06:46.82,Romaji-OP,,0,0,0,,{\an9\fad(150,150)}{\k44}(See {\k22}you, {\k24}good-{\k46}bye)
 Dialogue: 0,0:06:45.48,0:06:46.82,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(See you, good-bye)
 Dialogue: 1,0:06:48.49,0:06:49.07,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k45}(He{\k19}llo)
 Dialogue: 0,0:06:48.49,0:06:49.07,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(Hello)
 Dialogue: 1,0:06:48.99,0:06:52.32,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k36}shi{\k31}a{\k14}wa{\k24}se {\k9}t{\k14}te {\k29}so{\k20}no {\k47}ku{\k45}ri{\k29}ka{\k16}e{\k20}shi
 Dialogue: 0,0:06:48.99,0:06:52.32,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}shiawase tte sono kurikaeshi
-Dialogue: 1,0:06:48.99,0:06:52.32,TL-OP,,0,0,0,,{\fad(150,150)}This is our cycle of happiness
-Dialogue: 0,0:06:48.99,0:06:52.32,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}This is our cycle of happiness
+Dialogue: 1,0:06:48.99,0:06:52.32,TL-OP,,0,0,0,,{\fad(150,150)}La felicidad se repite una y otra vez
+Dialogue: 0,0:06:48.99,0:06:52.32,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}La felicidad se repite una y otra vez
 Dialogue: 1,0:06:52.32,0:06:56.37,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k32}na{\k13}n{\k11}ko{\k15}me {\k31}no {\k15}i{\k33}chi{\k17}ba{\k31}n {\k16}mo {\k14}ka{\k17}wa{\k13}ri {\k18}na{\k11}n{\k18}te {\k29}na{\k16}ku{\k59}te
 Dialogue: 0,0:06:52.32,0:06:56.37,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}nankome no ichiban mo kawari nante nakute
-Dialogue: 1,0:06:52.32,0:06:56.37,TL-OP,,0,0,0,,{\fad(150,150)}It doesn't matter where we are
-Dialogue: 0,0:06:52.32,0:06:56.37,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}It doesn't matter where we are
+Dialogue: 1,0:06:52.32,0:06:56.37,TL-OP,,0,0,0,,{\fad(150,150)}Sin importar dónde estemos
+Dialogue: 0,0:06:52.32,0:06:56.37,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Sin importar dónde estemos
 Dialogue: 1,0:06:56.37,0:07:00.00,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k34}mu{\k30}ne {\k18}i{\k27}p{\k18}pa{\k29}i {\k17}o{\k32}na{\k14}ka {\k18}i{\k12}p{\k17}pa{\k97}i
 Dialogue: 0,0:06:56.37,0:07:00.00,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}mune ippai onaka ippai
-Dialogue: 1,0:06:56.37,0:07:00.00,TL-OP,,0,0,0,,{\fad(150,150)}As long as our hearts and our stomachs are full (Thank you)
-Dialogue: 0,0:06:56.37,0:07:00.00,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}As long as our hearts and our stomachs are full (Thank you)
+Dialogue: 1,0:06:56.37,0:07:00.00,TL-OP,,0,0,0,,{\fad(150,150)}Mientras nuestros corazones y estómagos estén llenos (gracias)
+Dialogue: 0,0:06:56.37,0:07:00.00,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Mientras nuestros corazones y estómagos estén llenos (gracias)
 Dialogue: 1,0:06:59.16,0:07:00.00,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\k36}(a{\k28}ri{\k17}ga{\k6}tou)
 Dialogue: 0,0:06:59.16,0:07:00.00,Romaji-OP,,0,0,0,,{\fad(150,150)}{\an9\blur6}(arigatou)
 Dialogue: 1,0:07:00.00,0:07:04.08,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k40}mi{\k27}ta{\k20}sa{\k29}re{\k44}te {\k18}zu{\k28}t{\k16}to {\k32}zu{\k40}tto {\k31}ni{\k18}k{\k20}ko{\k40}ri
 Dialogue: 0,0:07:00.00,0:07:04.08,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}mitasarete zutto zutto nikkori
-Dialogue: 1,0:07:00.00,0:07:04.08,TL-OP,,0,0,0,,{\fad(150,150)}We're happy, so we can keep on smiling
-Dialogue: 0,0:07:00.00,0:07:04.08,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}We're happy, so we can keep on smiling
+Dialogue: 1,0:07:00.00,0:07:04.08,TL-OP,,0,0,0,,{\fad(150,150)}Reiremos para siempre
+Dialogue: 0,0:07:00.00,0:07:04.08,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Reiremos para siempre
 Dialogue: 1,0:07:07.38,0:07:10.97,Romaji-OP,,0,0,0,,{\fad(150,150)}{\k38}i{\k46}chi{\k37}ba{\k41}n {\k17}wa {\k15}hi{\k14}to{\k16}tsu {\k31}ja {\k53}na{\k46}i
 Dialogue: 0,0:07:07.38,0:07:10.97,Romaji-OP,,0,0,0,,{\fad(150,150)}{\blur6}ichiban wa hitotsu ja nai
-Dialogue: 1,0:07:07.38,0:07:10.97,TL-OP,,0,0,0,,{\fad(150,150)}Our favorite place is anywhere we can all be together
-Dialogue: 0,0:07:07.38,0:07:10.97,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}Our favorite place is anywhere we can all be together
+Dialogue: 1,0:07:07.38,0:07:10.97,TL-OP,,0,0,0,,{\fad(150,150)}No estamos solas en nuestro lugar favorito
+Dialogue: 0,0:07:07.38,0:07:10.97,TL-OP,,0,0,0,,{\fad(150,150)}{\blur6}No estamos solas en nuestro lugar favorito
 Dialogue: 1,0:08:51.94,0:08:52.03,nINJA TS,,0,0,0,,{\fax0.2\fnmoon mod\b0\fscy55\fs24\c&H5E5F68&\pos(847.313,289.889)\frz309.3\blur0.5}Whe
 Dialogue: 1,0:08:51.94,0:08:52.03,nINJA TS,,0,0,0,,{\fax-0.2\fnmoon mod\b0\fs24\c&H5E5F68&\frz354\pos(863.273,299.636)\fscx72\fscy61\blur0.5}e
 Dialogue: 0,0:08:51.94,0:08:52.03,nINJA TS,,0,0,0,,{\p1\blur0.6\c&H7FC4CF&\pos(850.793,320.889)}m 0 0 l 5 -32 l 18 -9 b 20 -7 23 -6 25 -7 l 17 19 b 15 20 12 19 10 17
@@ -7066,5 +7066,3 @@ Comment: 10,1:37:37.81,1:37:41.88,Default,,0,0,0,,わあああああああああ
 Comment: 10,1:37:41.88,1:37:44.80,Default,,0,0,0,,わあああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああああ（ｒｙ
 Comment: 0,1:46:29.71,1:49:45.95,block up,,0,0,0,,{\p1\c&H000000&\blur2}m 0 0 l 1500 0 1500 80 0 80{\p0}
 Comment: 0,1:46:29.71,1:49:45.95,block down,,0,0,0,,{\p1\c&H000000&\blur2\pos(640,725)}m 0 0 l 1500 0 1500 80 0 80{\p0}
-
-
