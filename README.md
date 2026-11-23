@@ -1,2 +1,3 @@
-# Subs
-Repositorio de archivos de subtítulos en español.
+# Créditos
+
+The Great Passage (2013).ass: Basado en la versión de 8thSin.
