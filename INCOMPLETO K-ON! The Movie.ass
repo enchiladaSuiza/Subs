@@ -311,108 +311,94 @@ Dialogue: 0,0:59:15.13,0:59:15.17,nINJA TS,,0,0,0,,{\fnpencilPete FONT\fs45\blur
 Dialogue: 0,0:59:15.17,0:59:15.21,nINJA TS,,0,0,0,,{\fnpencilPete FONT\fs45\blur0.9\c&H7D9192&\pos(832.2,443.2)\frz344.5\fscx197\t(0,99,\fscx198)\fscy197\t(0,99,\fscy198)}Azu-nyan
 Dialogue: 0,0:59:15.21,0:59:15.25,nINJA TS,,0,0,0,,{\fnpencilPete FONT\fs45\blur0.9\c&H7D9192&\pos(827.6,446.4)\frz344.5\fscx199\t(-56,43,\fscx200)\fscy199\t(-56,43,\fscy200)}Azu-nyan
 Dialogue: 1,0:59:37.83,0:59:41.36,Insert-02,,0,0,0,,rekishi no kyoukasho hyoushi no hyoushi
-Dialogue: 1,0:59:37.83,0:59:41.36,Insert-02,,0,0,0,,It's like a set list that has been around for a long time
+Dialogue: 1,0:59:37.83,0:59:41.36,Insert-02,,0,0,0,,El ritmo en las portadas de los libros de historia
 Dialogue: 0,0:59:37.83,0:59:41.36,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}rekishi no kyoukasho hyoushi no hyoushi
-Dialogue: 0,0:59:37.83,0:59:41.36,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}It's like a set list that has been around for a long time
+Dialogue: 0,0:59:37.83,0:59:41.36,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}El ritmo en las portadas de los libros de historia
 Dialogue: 1,0:59:41.36,0:59:44.07,Insert-02,,0,0,0,,yori mukashi kara no setto risuto
-Dialogue: 1,0:59:41.36,0:59:44.07,Insert-02,,0,0,0,,Older than what's on the covers of our history textbooks
+Dialogue: 1,0:59:41.36,0:59:44.07,Insert-02,,0,0,0,,Un viejo repertorio inolvidable
 Dialogue: 0,0:59:41.36,0:59:44.07,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}yori mukashi kara no setto risuto
-Dialogue: 0,0:59:41.36,0:59:44.07,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Older than what's on the covers of our history textbooks
+Dialogue: 0,0:59:41.36,0:59:44.07,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Un viejo repertorio inolvidable
 Dialogue: 1,0:59:44.07,0:59:47.45,Insert-02,,0,0,0,,riku ni agaru mae kame datta koro
-Dialogue: 1,0:59:44.07,0:59:47.45,Insert-02,,0,0,0,,Maybe turtles had it before they came up to land
+Dialogue: 1,0:59:44.07,0:59:47.45,Insert-02,,0,0,0,,Quizás desde cuando las tortugas salían del mar
 Dialogue: 0,0:59:44.07,0:59:47.45,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}riku ni agaru mae kame datta koro
-Dialogue: 0,0:59:44.07,0:59:47.45,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Maybe turtles had it before they came up to land
+Dialogue: 0,0:59:44.07,0:59:47.45,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Quizás desde cuando las tortugas salían del mar
 Dialogue: 1,0:59:47.45,0:59:50.76,Insert-02,,0,0,0,,mure ni natte oyoideta kamo shinnai
-Dialogue: 1,0:59:47.45,0:59:50.76,Insert-02,,0,0,0,,When they were swimming in groups
+Dialogue: 1,0:59:47.45,0:59:50.76,Insert-02,,0,0,0,,Y nadaban felices todas juntas
 Dialogue: 0,0:59:47.45,0:59:50.76,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}mure ni natte oyoideta kamo shinnai
-Dialogue: 0,0:59:47.45,0:59:50.76,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}When they were swimming in groups
+Dialogue: 0,0:59:47.45,0:59:50.76,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Y nadaban felices todas juntas
 Dialogue: 1,0:59:50.76,0:59:52.38,Insert-02,,0,0,0,,sonna ki ga suru
-Dialogue: 1,0:59:50.76,0:59:52.38,Insert-02,,0,0,0,,That's the kind of feeling I have
+Dialogue: 1,0:59:50.76,0:59:52.38,Insert-02,,0,0,0,,Esa es la sensación que me da
 Dialogue: 0,0:59:50.76,0:59:52.38,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}sonna ki ga suru
-Dialogue: 0,0:59:50.76,0:59:52.38,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}That's the kind of feeling I have
+Dialogue: 0,0:59:50.76,0:59:52.38,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Esa es la sensación que me da
 Dialogue: 1,0:59:52.38,0:59:55.62,Insert-02,,0,0,0,,haato ga pitatte hamatte hazurenai
-Dialogue: 1,0:59:52.38,0:59:55.62,Insert-02,,0,0,0,,It's just stuck in my head and I can't get it out
+Dialogue: 1,0:59:52.38,0:59:55.62,Insert-02,,0,0,0,,La tengo pegada en el corazón como un chicle
 Dialogue: 0,0:59:52.38,0:59:55.62,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}haato ga pitatte hamatte hazurenai
-Dialogue: 0,0:59:52.38,0:59:55.62,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}It's just stuck in my head and I can't get it out
+Dialogue: 0,0:59:52.38,0:59:55.62,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}La tengo pegada en el corazón como un chicle
 Dialogue: 1,0:59:55.62,0:59:57.30,Insert-02,,0,0,0,,chie no wa mitai na fiiringu
-Dialogue: 1,0:59:55.62,0:59:57.30,Insert-02,,0,0,0,,It's like I'm trapped in a maze
+Dialogue: 1,0:59:55.62,0:59:57.30,Insert-02,,0,0,0,,Siento que mi cabeza da vueltas y vueltas
 Dialogue: 0,0:59:55.62,0:59:57.30,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}chie no wa mitai na fiiringu
-Dialogue: 0,0:59:55.62,0:59:57.30,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}It's like I'm trapped in a maze
+Dialogue: 0,0:59:55.62,0:59:57.30,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Siento que mi cabeza da vueltas y vueltas
 Dialogue: 1,0:59:57.30,1:00:00.13,Insert-02,,0,0,0,,itsu made doko made mo ne
-Dialogue: 1,0:59:57.30,1:00:00.13,Insert-02,,0,0,0,,Whenever and wherever we are
+Dialogue: 1,0:59:57.30,1:00:00.13,Insert-02,,0,0,0,,Por siempre y para siempre
 Dialogue: 0,0:59:57.30,1:00:00.13,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}itsu made doko made mo ne
-Dialogue: 0,0:59:57.30,1:00:00.13,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Whenever and wherever we are
+Dialogue: 0,0:59:57.30,1:00:00.13,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Por siempre y para siempre
 Dialogue: 1,1:00:00.13,1:00:04.55,Insert-02,,0,0,0,,tsunagatte utatte ikou yo
-Dialogue: 1,1:00:00.13,1:00:04.55,Insert-02,,0,0,0,,Let's sing together!
+Dialogue: 1,1:00:00.13,1:00:04.55,Insert-02,,0,0,0,,Cantemos juntas como una
 Dialogue: 0,1:00:00.13,1:00:04.55,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}tsunagatte utatte ikou yo
-Dialogue: 0,1:00:00.13,1:00:04.55,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Let's sing together!
+Dialogue: 0,1:00:00.13,1:00:04.55,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Cantemos juntas como una
 Dialogue: 1,1:00:04.55,1:00:05.10,Insert-02,,0,0,0,,ja jan
-Dialogue: 1,1:00:04.55,1:00:05.10,Insert-02,,0,0,0,,Ta-da!
+Dialogue: 1,1:00:04.55,1:00:05.10,Insert-02,,0,0,0,,¡Tarán!
 Dialogue: 0,1:00:04.55,1:00:05.10,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}ja jan
-Dialogue: 0,1:00:04.55,1:00:05.10,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Ta-da!
+Dialogue: 0,1:00:04.55,1:00:05.10,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Tarán!
 Dialogue: 1,1:00:05.10,1:00:07.93,Insert-02,,0,0,0,,nee kono meguriawase tte unmei
-Dialogue: 1,1:00:05.10,1:00:07.93,Insert-02,,0,0,0,,Hey, could this encounter be fate?
+Dialogue: 1,1:00:05.10,1:00:07.93,Insert-02,,0,0,0,,Oye, ¿este encuentro será el destino?
 Dialogue: 0,1:00:05.10,1:00:07.93,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}nee kono meguriawase tte unmei
-Dialogue: 0,1:00:05.10,1:00:07.93,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Hey, could this encounter be fate?
+Dialogue: 0,1:00:05.10,1:00:07.93,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Oye, ¿este encuentro será el destino?
 Dialogue: 1,1:00:07.93,1:00:11.52,Insert-02,,0,0,0,,kotae wa egao to furu pawaa no sesshon
-Dialogue: 1,1:00:07.93,1:00:11.52,Insert-02,,0,0,0,,Only our smiles and full-power jam sessions hold the answer
+Dialogue: 1,1:00:07.93,1:00:11.52,Insert-02,,0,0,0,,La respuesta es una sesión de ensayo llena de emoción
 Dialogue: 0,1:00:07.93,1:00:11.52,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}kotae wa egao to furu pawaa no sesshon
-Dialogue: 0,1:00:07.93,1:00:11.52,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Only our smiles and full-power jam sessions hold the answer
+Dialogue: 0,1:00:07.93,1:00:11.52,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}La respuesta es una sesión de ensayo llena de emoción
 Dialogue: 1,1:00:11.52,1:00:14.27,Insert-02,,0,0,0,,surechigawazu deaeta ne suggoi yo ne
-Dialogue: 1,1:00:11.52,1:00:14.27,Insert-02,,0,0,0,,It's amazing that we all came together like this
+Dialogue: 1,1:00:11.52,1:00:14.27,Insert-02,,0,0,0,,Es increíble que nos hayamos cruzado así, ¿no crees?
 Dialogue: 0,1:00:11.52,1:00:14.27,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}surechigawazu deaeta ne suggoi yo ne
-Dialogue: 0,1:00:11.52,1:00:14.27,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}It's amazing that we all came together like this
+Dialogue: 0,1:00:11.52,1:00:14.27,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Es increíble que nos hayamos cruzado así, ¿no crees?
 Dialogue: 1,1:00:14.27,1:00:19.29,Insert-02,,0,0,0,,dakara chotto kurai picchi ga awanakuttemo
-Dialogue: 1,1:00:14.27,1:00:19.29,Insert-02,,0,0,0,,So even if our tuning isn't perfect
+Dialogue: 1,1:00:14.27,1:00:19.29,Insert-02,,0,0,0,,Así que incluso si estamos un poquito desafinadas
 Dialogue: 0,1:00:14.27,1:00:19.29,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}dakara chotto kurai picchi ga awanakuttemo
-Dialogue: 0,1:00:14.27,1:00:19.29,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}So even if our tuning isn't perfect
+Dialogue: 0,1:00:14.27,1:00:19.29,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Así que incluso si estamos un poquito desafinadas
 Dialogue: 1,1:00:19.29,1:00:20.86,Insert-02,,0,0,0,,daijoubu jan
-Dialogue: 1,1:00:19.29,1:00:20.86,Insert-02,,0,0,0,,It's fine!
+Dialogue: 1,1:00:19.29,1:00:20.86,Insert-02,,0,0,0,,¡Estará bien!
 Dialogue: 0,1:00:19.29,1:00:20.86,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}daijoubu jan
-Dialogue: 0,1:00:19.29,1:00:20.86,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}It's fine!
+Dialogue: 0,1:00:19.29,1:00:20.86,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Estará bien!
 Dialogue: 1,1:00:22.43,1:00:24.58,Insert-02,,0,0,0,,issho ni ne jan
-Dialogue: 1,1:00:22.43,1:00:24.58,Insert-02,,0,0,0,,Let's just have fun together!
+Dialogue: 1,1:00:22.43,1:00:24.58,Insert-02,,0,0,0,,¡Mientras estemos juntas!
 Dialogue: 0,1:00:22.43,1:00:24.58,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}issho ni ne jan
-Dialogue: 0,1:00:22.43,1:00:24.58,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Let's just have fun together!
+Dialogue: 0,1:00:22.43,1:00:24.58,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Mientras estemos juntas!
 Dialogue: 1,1:00:25.82,1:00:29.12,Insert-02,,0,0,0,,umareru mae kara deattetan da yo
-Dialogue: 1,1:00:25.82,1:00:29.12,Insert-02,,0,0,0,,We must've met in a past life
+Dialogue: 1,1:00:25.82,1:00:29.12,Insert-02,,0,0,0,,Nos conocimos antes de llegar al mundo
 Dialogue: 0,1:00:25.82,1:00:29.12,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}umareru mae kara deattetan da yo
-Dialogue: 0,1:00:25.82,1:00:29.12,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}We must've met in a past life
+Dialogue: 0,1:00:25.82,1:00:29.12,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Nos conocimos antes de llegar al mundo
 Dialogue: 1,1:00:32.28,1:00:35.42,Insert-02,,0,0,0,,umarekawatte mo kitto deaeru yo
-Dialogue: 1,1:00:32.28,1:00:35.42,Insert-02,,0,0,0,,I'm sure we'll meet again even if we're reborn
+Dialogue: 1,1:00:32.28,1:00:35.42,Insert-02,,0,0,0,,Y nos conoceremos otra vez en la siguiente
 Dialogue: 0,1:00:32.28,1:00:35.42,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}umarekawatte mo kitto deaeru yo
-Dialogue: 0,1:00:32.28,1:00:35.42,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}I'm sure we'll meet again even if we're reborn
-Dialogue: 1,1:00:35.42,1:00:38.88,Insert-02,,0,0,0,,sonna kouun ni kansha shite
-Dialogue: 1,1:00:35.42,1:00:38.88,Insert-02,,0,0,0,,We should be grateful for this blessing
+Dialogue: 0,1:00:32.28,1:00:35.42,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Y nos conoceremos otra vez en la siguiente
+Dialogue: 1,1:00:35.41,1:00:38.87,Insert-02,,0,0,0,,sonna kouun ni kansha shite
+Dialogue: 1,1:00:35.42,1:00:38.88,Insert-02,,0,0,0,,Muchas gracias por esta suerte
 Dialogue: 0,1:00:35.42,1:00:38.88,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}sonna kouun ni kansha shite
-Dialogue: 0,1:00:35.42,1:00:38.88,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}We should be grateful for this blessing
+Dialogue: 0,1:00:35.42,1:00:38.88,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Muchas gracias por esta suerte
 Dialogue: 1,1:00:38.88,1:00:41.82,Insert-02,,0,0,0,,gingaichi ookina ai mezasu yo
-Dialogue: 1,1:00:38.88,1:00:41.82,Insert-02,,0,0,0,,And love each other to the fullest
+Dialogue: 1,1:00:38.88,1:00:41.82,Insert-02,,0,0,0,,¡Busquemos un amor tan grande como la Vía Láctea!
 Dialogue: 0,1:00:38.88,1:00:41.82,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}gingaichi ookina ai mezasu yo
-Dialogue: 0,1:00:38.88,1:00:41.82,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}And love each other to the fullest
+Dialogue: 0,1:00:38.88,1:00:41.82,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Busquemos un amor tan grande como la Vía Láctea!
 Dialogue: 1,1:00:45.26,1:00:48.22,Insert-02,,0,0,0,,nee kono waon suteki shougeki unmei
-Dialogue: 1,1:00:45.26,1:00:48.22,Insert-02,,0,0,0,,Hey, this chord is a wonderful collision of fate
+Dialogue: 1,1:00:45.26,1:00:48.22,Insert-02,,0,0,0,,Este acorde es un increíble golpe del destino
 Dialogue: 0,1:00:45.26,1:00:48.22,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}nee kono waon suteki shougeki unmei
-Dialogue: 0,1:00:45.26,1:00:48.22,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Hey, this chord is a wonderful collision of fate
+Dialogue: 0,1:00:45.26,1:00:48.22,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Este acorde es un increíble golpe del destino
 Dialogue: 1,1:00:48.22,1:00:52.23,Insert-02,,0,0,0,,beetooben no otehon ni narechau kyuu ja jan
-Dialogue: 1,1:00:48.22,1:00:52.23,Insert-02,,0,0,0,,Even Beethoven could learn from this! Bam!
+Dialogue: 1,1:00:48.22,1:00:52.23,Insert-02,,0,0,0,,¡Incluso Beethoven podría tomarlo de ejemplo! ¡Jaja!
 Dialogue: 0,1:00:48.22,1:00:52.23,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&}beetooben no otehon ni narechau kyuu ja jan
-Dialogue: 0,1:00:48.22,1:00:52.23,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}Even Beethoven could learn from this! Bam!
-Dialogue: 1,1:09:47.80,1:09:50.68,nINJA TS,,0,0,0,,{\fax-0.25\fnstamPete\fs33\blur0.9\c&H959466&\frz311.1\pos(687.5,831)}Don{\fnA.C.M.E. Secret Agent\fs39}'{\fnstamPete\fs33}t throw it away{\fnA.C.M.E. Secret Agent\fs39}!{\fnstamPete\fs33}\h\hDon{\fnA.C.M.E. Secret Agent\fs39}'{\fnstamPete\fs33}t take it home{\fnA.C.M.E. Secret Agent\fs39}!
-Dialogue: 1,1:09:47.80,1:09:50.68,nINJA TS,,0,0,0,,{\fax-0.25\fnstamPete\fs42\blur0.9\c&H959466&\frz310.7\pos(619.5,859.5)}Return Reusable Cups
-Dialogue: 0,1:09:47.80,1:09:50.68,block,,0,0,0,,{\an7\blur1.5\p1\c&HCDE6D9&\pos(764.1,1084.7)}m 0 0 l 352.5 -178.5 l 327 -211.5 b 259.5 -172.5 189 -169.5 117 -180 b 78 -162 72 -165 55.5 -199.5 b -76.5 -255 -150 -364.5 -91.5 -481.5 l -108 -520.5 l -366 -411
-Dialogue: 1,1:11:30.11,1:11:30.16,nINJA TS,,0,0,0,,{\fax0.2\fs42\fscy150\an7\blur0.8\fnMV Boli\c&H848A8F&\frz13.17\pos(517.7,121.7)}We will gladly accept the offer.\NAfterschool Teatime
-Dialogue: 0,1:11:30.11,1:11:30.16,nINJA TS,,0,0,0,,{\p1\blur4.5\c&HF3F7FB&\pos(738.9,339.4)}m 0 0 l -16.5 -112.5 l 367.5 -205.5 l 373.5 -145.5 l 294 -132 l 304.5 -76.5
-Dialogue: 1,1:11:30.16,1:11:30.24,nINJA TS,,0,0,0,,{\fax0.2\fs42\fscy150\an7\blur0.8\fnMV Boli\c&H848A8F&\frz13.17\pos(584.3,108.3)}We will gladly accept the offer.\NAfterschool Teatime
-Dialogue: 0,1:11:30.16,1:11:30.24,nINJA TS,,0,0,0,,{\p1\blur4.5\c&HF3F7FB&\pos(805.5,326.1)}m 0 0 l -16.5 -112.5 l 367.5 -205.5 l 373.5 -145.5 l 294 -132 l 304.5 -76.5
-Dialogue: 1,1:11:30.24,1:11:30.32,nINJA TS,,0,0,0,,{\fax0.2\fs42\fscy150\an7\blur0.8\fnMV Boli\c&H848A8F&\pos(653.7,96.3)\frz12.56}We will gladly accept the offer.\NAfterschool Teatime
-Dialogue: 0,1:11:30.24,1:11:30.32,nINJA TS,,0,0,0,,{\p1\blur4.5\c&HF3F7FB&\pos(874.9,314.1)}m 0 0 l -16.5 -112.5 l 367.5 -205.5 l 373.5 -145.5 l 294 -132 l 304.5 -76.5
-Dialogue: 1,1:11:30.32,1:11:30.45,nINJA TS,,0,0,0,,{\fax-0.05\c&H848A8F&\blur0.9\fs45\pos(950.4,51)\frz9.478\frx4\fry4}Sending
-Dialogue: 0,1:11:30.32,1:11:30.45,block,,0,0,0,,{\fax-0.05\c&HF3F7FB&\blur1.5\fs45\frz10.78\pos(950.4,51)}AAA
-Dialogue: 1,1:11:30.45,1:11:30.57,nINJA TS,,0,0,0,,{\fax-0.05\c&H848A8F&\blur0.9\fs45\frz9.478\frx4\fry4\pos(918.9,55.5)}Sending
-Dialogue: 0,1:11:30.45,1:11:30.57,block,,0,0,0,,{\fax-0.05\c&HF3F7FB&\blur1.5\fs45\frz10.78\pos(918.9,55.5)}AAA
-Dialogue: 1,1:11:30.57,1:11:31.11,nINJA TS,,0,0,0,,{\fax-0.05\c&H848A8F&\blur0.9\fs45\frz9.478\frx4\fry4\pos(882.9,66)}Sending
-Dialogue: 0,1:11:30.57,1:11:31.11,block,,0,0,0,,{\fax-0.05\c&HF3F7FB&\blur1.5\fs45\frz10.78\pos(882.9,66)}AAA
+Dialogue: 0,1:00:48.22,1:00:52.23,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Incluso Beethoven podría tomarlo de ejemplo! ¡Jaja!
+Dialogue: 1,1:11:30.11,1:11:31.01,notes,,0,0,0,,{\3c&HFFFFFF&\c&H848A8F&}Aceptamos la oferta.\N- Houkago Tea Time
 Dialogue: 1,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,0,,moshi sunnari hanasereba
 Dialogue: 6,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,66,,I just need to say it out loud
 Dialogue: 0,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5\k0}{\3c&HCA9190&}m{\3c&HC89491&}o{\3c&HC79692&}s{\3c&HC69893&}h{\3c&HC59A94&}i{\3c&HC59B94&} {\3c&HC49C95&}s{\3c&HC39E96&}u{\3c&HC2A097&}n{\3c&HC1A298&}n{\3c&HC0A599&}a{\3c&HBFA79A&}r{\3c&HBEA79B&}i{\3c&HBEA69B&} {\3c&HBDA59C&}h{\3c&HBCA49E&}a{\3c&HBBA29F&}n{\3c&HBAA1A0&}a{\3c&HBAA0A1&}s{\3c&HB99EA2&}e{\3c&HB89DA3&}r{\3c&HB79BA4&}e{\3c&HB69AA5&}b{\3c&HB699A7&}a
