@@ -400,289 +400,260 @@ Dialogue: 0,1:00:48.22,1:00:52.23,Insert-02,,0,0,28,,{\blur4.5\bord3\3c&HFFFFFF&
 Dialogue: 0,1:00:48.22,1:00:52.23,Insert-02,,0,0,21,,{\blur4.5\bord3\3c&HFFFFFF&}¡Incluso Beethoven podría tomarlo de ejemplo! ¡Jaja!
 Dialogue: 1,1:11:30.11,1:11:31.01,notes,,0,0,0,,{\3c&HFFFFFF&\c&H848A8F&}Aceptamos la oferta.\N- Houkago Tea Time
 Dialogue: 1,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,0,,moshi sunnari hanasereba
-Dialogue: 6,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,66,,I just need to say it out loud
-Dialogue: 0,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5\k0}{\3c&HCA9190&}m{\3c&HC89491&}o{\3c&HC79692&}s{\3c&HC69893&}h{\3c&HC59A94&}i{\3c&HC59B94&} {\3c&HC49C95&}s{\3c&HC39E96&}u{\3c&HC2A097&}n{\3c&HC1A298&}n{\3c&HC0A599&}a{\3c&HBFA79A&}r{\3c&HBEA79B&}i{\3c&HBEA69B&} {\3c&HBDA59C&}h{\3c&HBCA49E&}a{\3c&HBBA29F&}n{\3c&HBAA1A0&}a{\3c&HBAA0A1&}s{\3c&HB99EA2&}e{\3c&HB89DA3&}r{\3c&HB79BA4&}e{\3c&HB69AA5&}b{\3c&HB699A7&}a
-Dialogue: 0,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}I{\3c&HC99290&} {\3c&HC89391&}j{\3c&HC89491&}u{\3c&HC79692&}s{\3c&HC69793&}t{\3c&HC69993&} {\3c&HC59A94&}n{\3c&HC49C95&}e{\3c&HC39E96&}e{\3c&HC2A197&}d{\3c&HC1A298&} {\3c&HC0A399&}t{\3c&HC0A599&}o{\3c&HBFA79A&} {\3c&HBEA79B&}s{\3c&HBEA69C&}a{\3c&HBDA59D&}y{\3c&HBCA49E&} {\3c&HBCA39E&}i{\3c&HBBA29F&}t{\3c&HBBA19F&} {\3c&HBAA0A0&}o{\3c&HB99FA1&}u{\3c&HB99EA2&}t{\3c&HB89DA3&} {\3c&HB89CA3&}l{\3c&HB79BA4&}o{\3c&HB69AA5&}u{\3c&HB699A7&}d
+Dialogue: 6,1:17:54.04,1:17:57.06,fuwafuwataimu,,0,0,66,,\NSi pudiera decirlo fuerte y claro
 Dialogue: 1,1:17:57.06,1:18:03.05,fuwafuwataimu,,0,0,0,,sono ato wa dou ni ka naru yo ne
-Dialogue: 6,1:17:57.06,1:18:03.05,fuwafuwataimu,,0,0,66,,Things should work out after that
-Dialogue: 0,1:17:57.06,1:18:03.05,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}s{\3c&HC99290&}o{\3c&HC89491&}n{\3c&HC79592&}o{\3c&HC69793&} {\3c&HC69893&}a{\3c&HC59A94&}t{\3c&HC49B95&}o{\3c&HC49D95&} {\3c&HC39E96&}w{\3c&HC2A097&}a{\3c&HC1A198&} {\3c&HC1A398&}d{\3c&HC0A499&}o{\3c&HBFA69A&}u{\3c&HBEA79B&} {\3c&HBEA79B&}n{\3c&HBDA69C&}i{\3c&HBDA59C&} {\3c&HBDA49D&}k{\3c&HBCA39E&}a{\3c&HBCA39E&} {\3c&HBBA29F&}n{\3c&HBAA1A0&}a{\3c&HBAA0A1&}r{\3c&HB99EA2&}u{\3c&HB99EA2&} {\3c&HB89DA3&}y{\3c&HB79CA4&}o{\3c&HB79BA5&} {\3c&HB69AA6&}n{\3c&HB699A7&}e
-Dialogue: 0,1:17:57.06,1:18:03.05,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}T{\3c&HC99290&}h{\3c&HC89491&}i{\3c&HC89591&}n{\3c&HC79692&}g{\3c&HC69893&}s{\3c&HC59994&} {\3c&HC59A94&}s{\3c&HC49C95&}h{\3c&HC39E96&}o{\3c&HC29F97&}u{\3c&HC2A197&}l{\3c&HC1A298&}d{\3c&HC0A399&} {\3c&HC0A599&}w{\3c&HBFA79A&}o{\3c&HBEA79B&}r{\3c&HBEA69C&}k{\3c&HBDA59C&} {\3c&HBDA49D&}o{\3c&HBCA39E&}u{\3c&HBBA29F&}t{\3c&HBBA29F&} {\3c&HBAA1A0&}a{\3c&HBAA0A1&}f{\3c&HB99FA1&}t{\3c&HB99EA2&}e{\3c&HB89DA3&}r{\3c&HB89CA3&} {\3c&HB79BA4&}t{\3c&HB79AA5&}h{\3c&HB699A6&}a{\3c&HB699A7&}t
+Dialogue: 6,1:17:57.06,1:18:03.05,fuwafuwataimu,,0,0,66,,\NDe una u otra forma todo saldrá bien
 Dialogue: 1,1:18:04.56,1:18:06.10,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:04.56,1:18:06.10,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:04.56,1:18:06.10,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:04.56,1:18:06.10,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:04.56,1:18:06.10,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:06.10,1:18:07.32,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:06.10,1:18:07.32,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:06.10,1:18:07.32,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:06.10,1:18:07.32,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:06.10,1:18:07.32,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:07.32,1:18:08.87,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:07.32,1:18:08.87,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:07.32,1:18:08.87,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:07.32,1:18:08.87,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:07.32,1:18:08.87,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:08.87,1:18:10.18,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:08.87,1:18:10.18,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:08.87,1:18:10.18,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:08.87,1:18:10.18,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:08.87,1:18:10.18,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:10.18,1:18:11.46,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:10.18,1:18:11.46,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:10.18,1:18:11.46,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:10.18,1:18:11.46,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:10.18,1:18:11.46,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:11.46,1:18:13.00,fuwafuwataimu,,0,0,0,,fuwafuwa taimu
-Dialogue: 6,1:18:11.46,1:18:13.00,fuwafuwataimu,,0,0,66,,Fluffy time
-Dialogue: 0,1:18:11.46,1:18:13.00,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}f{\3c&HC89391&}u{\3c&HC69793&}w{\3c&HC49C95&}a{\3c&HC29F97&}f{\3c&HC1A298&}u{\3c&HBFA79A&}w{\3c&HBDA59C&}a{\3c&HBCA39E&} {\3c&HBBA29F&}t{\3c&HBAA0A1&}a{\3c&HB99EA2&}i{\3c&HB79BA4&}m{\3c&HB699A7&}u
-Dialogue: 0,1:18:11.46,1:18:13.00,fuwafuwataimu,,0,0,0,,{\bord3\blur4.5}{\3c&HCA9190&}F{\3c&HC79692&}l{\3c&HC69893&}u{\3c&HC39E96&}f{\3c&HC1A298&}f{\3c&HBFA69A&}y{\3c&HBDA59C&} {\3c&HBCA39E&}t{\3c&HBBA1A0&}i{\3c&HB89DA3&}m{\3c&HB699A7&}e
+Dialogue: 6,1:18:11.46,1:18:13.00,fuwafuwataimu,,0,0,66,,\NHora suavecita
 Dialogue: 1,1:18:56.98,1:18:59.57,gohan ro,,0,0,0,,gohan wa sugoi yo
 Dialogue: 0,1:18:56.98,1:18:59.57,gohan ro border,,0,0,0,,{\blur4.5}gohan wa sugoi yo
-Dialogue: 1,1:18:56.98,1:18:59.56,gohan en,,0,0,0,,Rice is amazing
-Dialogue: 0,1:18:56.98,1:18:59.56,gohan en border,,0,0,0,,{\blur4.5}Rice is amazing
-Dialogue: 1,1:18:59.56,1:19:01.94,gohan en,,0,0,0,,It goes with anything and it's so warm!
-Dialogue: 0,1:18:59.56,1:19:01.94,gohan en border,,0,0,0,,{\blur4.5}It goes with anything and it's so warm!
+Dialogue: 1,1:18:56.98,1:18:59.56,gohan en,,0,0,0,,El arroz es genial
+Dialogue: 0,1:18:56.98,1:18:59.56,gohan en border,,0,0,0,,{\blur4.5}El arroz es genial
+Dialogue: 1,1:18:59.56,1:19:01.94,gohan en,,0,0,0,,Va con todo y está calientito
+Dialogue: 0,1:18:59.56,1:19:01.94,gohan en border,,0,0,0,,{\blur4.5}Va con todo y está calientito
 Dialogue: 1,1:18:59.57,1:19:01.96,gohan ro,,0,0,0,,nan demo au yo hokahoka
 Dialogue: 0,1:18:59.57,1:19:01.96,gohan ro border,,0,0,0,,{\blur4.5}nan demo au yo hokahoka
-Dialogue: 1,1:19:01.94,1:19:07.15,gohan en,,0,0,0,,Ramen, udon, okonomiyaki, it goes with all of them!
-Dialogue: 0,1:19:01.94,1:19:07.15,gohan en border,,0,0,0,,{\blur4.5}Ramen, udon, okonomiyaki, it goes with all of them!
+Dialogue: 1,1:19:01.94,1:19:07.15,gohan en,,0,0,0,,Ramen, udon, okonomiyaki, ¡a todo le queda!
+Dialogue: 0,1:19:01.94,1:19:07.15,gohan en border,,0,0,0,,{\blur4.5}Ramen, udon, okonomiyaki, ¡a todo le queda!
 Dialogue: 1,1:19:01.96,1:19:07.15,gohan ro,,0,0,0,,raamen udon ni okonomiyaki korekore
 Dialogue: 0,1:19:01.96,1:19:07.15,gohan ro border,,0,0,0,,{\blur4.5}raamen udon ni okonomiyaki korekore
 Dialogue: 1,1:19:07.15,1:19:12.20,gohan ro,,0,0,0,,tansuikabutsu to tansuikabutsu no
 Dialogue: 0,1:19:07.15,1:19:12.20,gohan ro border,,0,0,0,,{\blur4.5}tansuikabutsu to tansuikabutsu no
-Dialogue: 1,1:19:07.15,1:19:12.20,gohan en,,0,0,0,,It's carbohydrates and more carbohydrates
-Dialogue: 0,1:19:07.15,1:19:12.20,gohan en border,,0,0,0,,{\blur4.5}It's carbohydrates and more carbohydrates
+Dialogue: 1,1:19:07.15,1:19:12.20,gohan en,,0,0,0,,Es una colaboración de ensueño
+Dialogue: 0,1:19:07.15,1:19:12.20,gohan en border,,0,0,0,,{\blur4.5}Es una colaboración de ensueño
 Dialogue: 1,1:19:12.20,1:19:15.95,gohan ro,,0,0,0,,yume no koraboreeshon
 Dialogue: 0,1:19:12.20,1:19:15.95,gohan ro border,,0,0,0,,{\blur4.5}yume no koraboreeshon
-Dialogue: 1,1:19:12.20,1:19:15.95,gohan en,,0,0,0,,Working in a dream like collaboration
-Dialogue: 0,1:19:12.20,1:19:15.95,gohan en border,,0,0,0,,{\blur4.5}Working in a dream like collaboration
+Dialogue: 1,1:19:12.20,1:19:15.95,gohan en,,0,0,0,,Entre muchos y muchos carbohidratos
+Dialogue: 0,1:19:12.20,1:19:15.95,gohan en border,,0,0,0,,{\blur4.5}Entre muchos y muchos carbohidratos
 Dialogue: 1,1:19:15.95,1:19:17.25,gohan ro,,0,0,0,,(atsuatsu hokahoka)
 Dialogue: 0,1:19:15.95,1:19:17.25,gohan ro border,,0,0,0,,{\blur4.5}(atsuatsu hokahoka)
-Dialogue: 1,1:19:15.95,1:19:17.25,gohan en,,0,0,0,,(Hot, hot! Warm, warm!)
-Dialogue: 0,1:19:15.95,1:19:17.25,gohan en border,,0,0,0,,{\blur4.5}(Hot, hot! Warm, warm!)
+Dialogue: 1,1:19:15.95,1:19:17.25,gohan en,,0,0,0,,(¡Suavecito! ¡Calientito!)
+Dialogue: 0,1:19:15.95,1:19:17.25,gohan en border,,0,0,0,,{\blur4.5}(¡Suavecito! ¡Calientito!)
 Dialogue: 1,1:19:17.25,1:19:18.53,gohan ro,,0,0,0,,gohan wa sugoi yo
 Dialogue: 0,1:19:17.25,1:19:18.53,gohan ro border,,0,0,0,,{\blur4.5}gohan wa sugoi yo
-Dialogue: 1,1:19:17.25,1:19:18.54,gohan en,,0,0,0,,Rice is amazing
-Dialogue: 0,1:19:17.25,1:19:18.54,gohan en border,,0,0,0,,{\blur4.5}Rice is amazing
+Dialogue: 1,1:19:17.25,1:19:18.54,gohan en,,0,0,0,,El arroz es genial
+Dialogue: 0,1:19:17.25,1:19:18.54,gohan en border,,0,0,0,,{\blur4.5}El arroz es genial
 Dialogue: 1,1:19:18.53,1:19:19.83,gohan ro,,0,0,0,,nai to komaru yo
 Dialogue: 0,1:19:18.53,1:19:19.83,gohan ro border,,0,0,0,,{\blur4.5}nai to komaru yo
-Dialogue: 1,1:19:18.54,1:19:19.83,gohan en,,0,0,0,,We'd be in trouble without it
-Dialogue: 0,1:19:18.54,1:19:19.83,gohan en border,,0,0,0,,{\blur4.5}We'd be in trouble without it
+Dialogue: 1,1:19:18.54,1:19:19.83,gohan en,,0,0,0,,No sé qué haría sin él
+Dialogue: 0,1:19:18.54,1:19:19.83,gohan en border,,0,0,0,,{\blur4.5}No sé qué haría sin él
 Dialogue: 1,1:19:19.83,1:19:22.25,gohan ro,,0,0,0,,mushiro gohan ga okazu da yo
 Dialogue: 0,1:19:19.83,1:19:22.25,gohan ro border,,0,0,0,,{\blur4.5}mushiro gohan ga okazu da yo
-Dialogue: 1,1:19:19.83,1:19:22.25,gohan en,,0,0,0,,It's more like rice is the side dish
-Dialogue: 0,1:19:19.83,1:19:22.25,gohan en border,,0,0,0,,{\blur4.5}It's more like rice is the side dish
+Dialogue: 1,1:19:19.83,1:19:22.25,gohan en,,0,0,0,,De hecho, el arroz es el plato fuerte
+Dialogue: 0,1:19:19.83,1:19:22.25,gohan en border,,0,0,0,,{\blur4.5}De hecho, el arroz es el plato fuerte
 Dialogue: 1,1:19:22.25,1:19:26.88,gohan ro,,0,0,0,,kansaijin nara yappari okonomiyaki ando gohan
 Dialogue: 0,1:19:22.25,1:19:26.88,gohan ro border,,0,0,0,,{\blur4.5}kansaijin nara yappari okonomiyaki ando gohan
-Dialogue: 1,1:19:22.25,1:19:26.88,gohan en,,0,0,0,,For Kansai people, it's gotta be okonomiyaki and rice!
-Dialogue: 0,1:19:22.25,1:19:26.88,gohan en border,,0,0,0,,{\blur4.5}For Kansai people, it's gotta be okonomiyaki and rice!
+Dialogue: 1,1:19:22.25,1:19:26.88,gohan en,,0,0,0,,¡En Kansai no hay nada como arroz y okonomiyaki!
+Dialogue: 0,1:19:22.25,1:19:26.88,gohan en border,,0,0,0,,{\blur4.5}¡En Kansai no hay nada como arroz y okonomiyaki!
 Dialogue: 1,1:19:26.88,1:19:30.01,gohan ro,,0,0,0,,demo watashi kansaijin ja nain desu
 Dialogue: 0,1:19:26.88,1:19:30.01,gohan ro border,,0,0,0,,{\blur4.5}demo watashi kansaijin ja nain desu
-Dialogue: 1,1:19:26.88,1:19:30.01,gohan en,,0,0,0,,But I’m not from Kansai!
-Dialogue: 0,1:19:26.88,1:19:30.01,gohan en border,,0,0,0,,{\blur4.5}But I’m not from Kansai!
+Dialogue: 1,1:19:26.88,1:19:30.01,gohan en,,0,0,0,,¡Pero no soy kansaiense!
+Dialogue: 0,1:19:26.88,1:19:30.01,gohan en border,,0,0,0,,{\blur4.5}¡Pero no soy kansaiense!
 Dialogue: 1,1:19:30.01,1:19:31.47,gohan ro,,0,0,0,,(donai ya nen)
 Dialogue: 0,1:19:30.01,1:19:31.47,gohan ro border,,0,0,0,,{\blur4.5}(donai ya nen)
-Dialogue: 1,1:19:30.01,1:19:31.47,gohan en,,0,0,0,,(What the heck?)
-Dialogue: 0,1:19:30.01,1:19:31.47,gohan en border,,0,0,0,,{\blur4.5}(What the heck?)
+Dialogue: 1,1:19:30.01,1:19:31.47,gohan en,,0,0,0,,(¡Qué iris!)
+Dialogue: 0,1:19:30.01,1:19:31.47,gohan en border,,0,0,0,,{\blur4.5}(¡Qué iris!)
 Dialogue: 1,1:19:34.89,1:19:37.48,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:19:34.89,1:19:37.48,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:19:34.89,1:19:37.48,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!{there's a pun here. dunno what to do about it}
-Dialogue: 0,1:19:34.89,1:19:37.48,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!{there's a pun here. dunno what to do about it}
-Dialogue: 1,1:19:39.64,1:19:42.56,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:19:39.64,1:19:42.56,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:19:34.89,1:19:37.48,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:19:34.89,1:19:37.48,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
+Dialogue: 1,1:19:39.64,1:19:42.56,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:19:39.64,1:19:42.56,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:19:39.66,1:19:42.56,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:19:39.66,1:19:42.56,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
 Dialogue: 1,1:19:44.98,1:19:46.34,gohan ro,,0,0,0,,gohan wa sugoi yo
 Dialogue: 0,1:19:44.98,1:19:46.34,gohan ro border,,0,0,0,,{\blur4.5}gohan wa sugoi yo
-Dialogue: 1,1:19:44.98,1:19:46.32,gohan en,,0,0,0,,Rice is amazing
-Dialogue: 0,1:19:44.98,1:19:46.32,gohan en border,,0,0,0,,{\blur4.5}Rice is amazing
-Dialogue: 1,1:19:46.32,1:19:47.57,gohan en,,0,0,0,,We'd be in trouble without it
-Dialogue: 0,1:19:46.32,1:19:47.57,gohan en border,,0,0,0,,{\blur4.5}We'd be in trouble without it
+Dialogue: 1,1:19:44.98,1:19:46.32,gohan en,,0,0,0,,El arroz es genial
+Dialogue: 0,1:19:44.98,1:19:46.32,gohan en border,,0,0,0,,{\blur4.5}El arroz es genial
+Dialogue: 1,1:19:46.32,1:19:47.57,gohan en,,0,0,0,,No sé qué haría sin él
+Dialogue: 0,1:19:46.32,1:19:47.57,gohan en border,,0,0,0,,{\blur4.5}No sé qué haría sin él
 Dialogue: 1,1:19:46.34,1:19:47.57,gohan ro,,0,0,0,,nai to komaru yo
 Dialogue: 0,1:19:46.34,1:19:47.57,gohan ro border,,0,0,0,,{\blur4.5}nai to komaru yo
 Dialogue: 1,1:19:47.57,1:19:50.20,gohan ro,,0,0,0,,mushiro gohan ga okazu da yo
 Dialogue: 0,1:19:47.57,1:19:50.20,gohan ro border,,0,0,0,,{\blur4.5}mushiro gohan ga okazu da yo
-Dialogue: 1,1:19:47.57,1:19:50.20,gohan en,,0,0,0,,It's more like rice is the side dish
-Dialogue: 0,1:19:47.57,1:19:50.20,gohan en border,,0,0,0,,{\blur4.5}It's more like rice is the side dish
+Dialogue: 1,1:19:47.57,1:19:50.20,gohan en,,0,0,0,,De hecho, el arroz es el plato fuerte
+Dialogue: 0,1:19:47.57,1:19:50.20,gohan en border,,0,0,0,,{\blur4.5}De hecho, el arroz es el plato fuerte
 Dialogue: 1,1:19:50.20,1:19:54.70,gohan ro,,0,0,0,,kansaijin nara yappari okonomiyaki ando gohan
 Dialogue: 0,1:19:50.20,1:19:54.70,gohan ro border,,0,0,0,,{\blur4.5}kansaijin nara yappari okonomiyaki ando gohan
-Dialogue: 1,1:19:50.20,1:19:54.70,gohan en,,0,0,0,,For Kansai people, it's gotta be okonomiyaki and rice!
-Dialogue: 0,1:19:50.20,1:19:54.70,gohan en border,,0,0,0,,{\blur4.5}For Kansai people, it's gotta be okonomiyaki and rice!
+Dialogue: 1,1:19:50.20,1:19:54.70,gohan en,,0,0,0,,¡En Kansai no hay nada como arroz y okonomiyaki!
+Dialogue: 0,1:19:50.20,1:19:54.70,gohan en border,,0,0,0,,{\blur4.5}¡En Kansai no hay nada como arroz y okonomiyaki!
 Dialogue: 1,1:19:54.70,1:19:57.66,gohan ro,,0,0,0,,watashi zense wa kansaijin
 Dialogue: 0,1:19:54.70,1:19:57.66,gohan ro border,,0,0,0,,{\blur4.5}watashi zense wa kansaijin
-Dialogue: 1,1:19:54.70,1:19:57.66,gohan en,,0,0,0,,I must've been from Kansai in a past life!
-Dialogue: 0,1:19:54.70,1:19:57.66,gohan en border,,0,0,0,,{\blur4.5}I must've been from Kansai in a past life!
+Dialogue: 1,1:19:54.70,1:19:57.66,gohan en,,0,0,0,,¡Fui kansaiense en mi vida pasada!
+Dialogue: 0,1:19:54.70,1:19:57.66,gohan en border,,0,0,0,,{\blur4.5}¡Fui kansaiense en mi vida pasada!
 Dialogue: 1,1:19:57.66,1:19:59.17,gohan ro,,0,0,0,,(donai ya nen)
 Dialogue: 0,1:19:57.66,1:19:59.17,gohan ro border,,0,0,0,,{\blur4.5}(donai ya nen)
-Dialogue: 1,1:19:57.66,1:19:59.16,gohan en,,0,0,0,,(What the heck?)
-Dialogue: 0,1:19:57.66,1:19:59.16,gohan en border,,0,0,0,,{\blur4.5}(What the heck?)
+Dialogue: 1,1:19:57.66,1:19:59.16,gohan en,,0,0,0,,(¡Qué iris!)
+Dialogue: 0,1:19:57.66,1:19:59.16,gohan en border,,0,0,0,,{\blur4.5}(¡Qué iris!)
 Dialogue: 1,1:20:02.67,1:20:05.29,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:02.67,1:20:05.29,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:02.67,1:20:05.30,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:02.67,1:20:05.30,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:02.67,1:20:05.30,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:02.67,1:20:05.30,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:07.63,1:20:10.38,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:07.63,1:20:10.38,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:07.63,1:20:10.38,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:07.63,1:20:10.38,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:07.63,1:20:10.38,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:07.63,1:20:10.38,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:12.76,1:20:15.22,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:12.76,1:20:15.22,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:12.76,1:20:15.22,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:12.76,1:20:15.22,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:12.76,1:20:15.22,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:12.76,1:20:15.22,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:17.77,1:20:20.27,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:17.77,1:20:20.27,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:17.77,1:20:20.27,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:17.77,1:20:20.27,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:17.77,1:20:20.27,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:17.77,1:20:20.27,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:25.23,1:20:27.98,gohan ro,,0,0,0,,rondon burijji temuzu ribaa
 Dialogue: 0,1:20:25.23,1:20:27.98,gohan ro border,,0,0,0,,{\blur4.5}rondon burijji temuzu ribaa
-Dialogue: 1,1:20:25.23,1:20:27.98,gohan en,,0,0,0,,London Bridge, the River Thames
-Dialogue: 0,1:20:25.23,1:20:27.98,gohan en border,,0,0,0,,{\blur4.5}London Bridge, the River Thames
+Dialogue: 1,1:20:25.23,1:20:27.98,gohan en,,0,0,0,,Puente de Londres, Río Támesis
+Dialogue: 0,1:20:25.23,1:20:27.98,gohan en border,,0,0,0,,{\blur4.5}Puente de Londres, Río Támesis
 Dialogue: 1,1:20:27.98,1:20:30.49,gohan ro,,0,0,0,,rondon tawaa ni rondon ai
 Dialogue: 0,1:20:27.98,1:20:30.49,gohan ro border,,0,0,0,,{\blur4.5}rondon tawaa ni rondon ai
-Dialogue: 1,1:20:27.98,1:20:30.49,gohan en,,0,0,0,,The Tower of London, and the London Eye
-Dialogue: 0,1:20:27.98,1:20:30.49,gohan en border,,0,0,0,,{\blur4.5}The Tower of London, and the London Eye
+Dialogue: 1,1:20:27.98,1:20:30.49,gohan en,,0,0,0,,Torre de Londres, London Eye
+Dialogue: 0,1:20:27.98,1:20:30.49,gohan en border,,0,0,0,,{\blur4.5}Torre de Londres, London Eye
 Dialogue: 1,1:20:30.49,1:20:35.03,gohan ro,,0,0,0,,rondon rondon yappari okonomiyaki ando gohan
 Dialogue: 0,1:20:30.49,1:20:35.03,gohan ro border,,0,0,0,,{\blur4.5}rondon rondon yappari okonomiyaki ando gohan
-Dialogue: 1,1:20:30.49,1:20:35.03,gohan en,,0,0,0,,London, London! It's gotta be okonomiyaki and rice!
-Dialogue: 0,1:20:30.49,1:20:35.03,gohan en border,,0,0,0,,{\blur4.5}London, London! It's gotta be okonomiyaki and rice!
+Dialogue: 1,1:20:30.49,1:20:35.03,gohan en,,0,0,0,,¡Londres, Londres! ¡Tiene que ser arroz y okonomiyaki!
+Dialogue: 0,1:20:30.49,1:20:35.03,gohan en border,,0,0,0,,{\blur4.5}¡Londres, Londres! ¡Tiene que ser arroz y okonomiyaki!
 Dialogue: 1,1:20:35.03,1:20:37.99,gohan ro,,0,0,0,,watashi zense wa rondonjin
 Dialogue: 0,1:20:35.03,1:20:37.99,gohan ro border,,0,0,0,,{\blur4.5}watashi zense wa rondonjin
-Dialogue: 1,1:20:35.03,1:20:37.99,gohan en,,0,0,0,,I must've been a Londoner in a past life!
-Dialogue: 0,1:20:35.03,1:20:37.99,gohan en border,,0,0,0,,{\blur4.5}I must've been a Londoner in a past life!
+Dialogue: 1,1:20:35.03,1:20:37.99,gohan en,,0,0,0,,¡Fui londinense en mi vida pasada!
+Dialogue: 0,1:20:35.03,1:20:37.99,gohan en border,,0,0,0,,{\blur4.5}¡Fui londinense en mi vida pasada!
 Dialogue: 1,1:20:37.99,1:20:39.46,gohan ro,,0,0,0,,(donai ya nen)
 Dialogue: 0,1:20:37.99,1:20:39.46,gohan ro border,,0,0,0,,{\blur4.5}(donai ya nen)
-Dialogue: 1,1:20:37.99,1:20:39.45,gohan en,,0,0,0,,(What the heck?)
-Dialogue: 0,1:20:37.99,1:20:39.45,gohan en border,,0,0,0,,{\blur4.5}(What the heck?)
-Dialogue: 1,1:20:42.83,1:20:45.75,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:42.83,1:20:45.75,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:37.99,1:20:39.45,gohan en,,0,0,0,,(¡Qué iris!)
+Dialogue: 0,1:20:37.99,1:20:39.45,gohan en border,,0,0,0,,{\blur4.5}(¡Qué iris!)
+Dialogue: 1,1:20:42.83,1:20:45.75,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:42.83,1:20:45.75,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:42.85,1:20:45.75,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:42.85,1:20:45.75,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
 Dialogue: 1,1:20:47.91,1:20:50.76,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:47.91,1:20:50.76,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:47.92,1:20:50.76,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:47.92,1:20:50.76,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:47.92,1:20:50.76,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:47.92,1:20:50.76,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:52.97,1:20:55.76,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:52.97,1:20:55.76,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 1,1:20:52.97,1:20:55.76,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:52.97,1:20:55.76,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
-Dialogue: 1,1:20:58.06,1:21:00.98,gohan en,,0,0,0,,1-2-3-4-R-I-C-E!
-Dialogue: 0,1:20:58.06,1:21:00.98,gohan en border,,0,0,0,,{\blur4.5}1-2-3-4-R-I-C-E!
+Dialogue: 1,1:20:52.97,1:20:55.76,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:52.97,1:20:55.76,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
+Dialogue: 1,1:20:58.06,1:21:00.98,gohan en,,0,0,0,,¡1-2-3-4-A-RRO-Z!
+Dialogue: 0,1:20:58.06,1:21:00.98,gohan en border,,0,0,0,,{\blur4.5}¡1-2-3-4-A-RRO-Z!
 Dialogue: 1,1:20:58.08,1:21:00.98,gohan ro,,0,0,0,,ichi-ni-san-shi-go-ha-n
 Dialogue: 0,1:20:58.08,1:21:00.98,gohan ro border,,0,0,0,,{\blur4.5}ichi-ni-san-shi-go-ha-n
-Dialogue: 0,1:24:30.35,1:24:30.43,nINJA TS,,0,0,0,,{\an7\bord0.15\blur0.8\fs57\c&H929694&\fnBudHand\frz353.1\3c&H929694&\pos(949.7,502.8)}What about\Nin the morning?
-Dialogue: 0,1:24:30.43,1:24:30.56,nINJA TS,,0,0,0,,{\an7\bord0.15\blur0.8\fs57\c&H929694&\fnBudHand\frz353.1\3c&H929694&\pos(931,489.5)}What about\Nin the morning?
-Dialogue: 0,1:24:30.56,1:24:30.73,nINJA TS,,0,0,0,,{\an7\bord0.15\blur0.8\fs57\c&H929694&\fnBudHand\frz353.1\3c&H929694&\pos(915,484.2)}What about\Nin the morning?
-Dialogue: 0,1:24:30.73,1:24:30.89,nINJA TS,,0,0,0,,{\an7\bord0.15\blur0.8\fs57\c&H929694&\fnBudHand\frz353.1\3c&H929694&\pos(908.3,484.2)}What about\Nin the morning?
-Dialogue: 0,1:24:30.89,1:24:31.60,nINJA TS,,0,0,0,,{\an7\bord0.15\blur0.8\fs57\c&H929694&\fnBudHand\frz353.1\3c&H929694&\pos(903,485.5)}What about\Nin the morning?
+Dialogue: 0,1:24:30.35,1:24:31.60,notes,,0,0,0,,{\bord0.15\c&H929694&\3c&HFFFFFF&}¿Qué tal en la mañana?
 Dialogue: 0,1:26:35.54,1:26:38.91,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}raindrops furidasu ame
-Dialogue: 0,1:26:35.54,1:26:38.91,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Raindrops begin to fall
+Dialogue: 0,1:26:35.54,1:26:38.91,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}{\i1}Raindrops{\i0} la lluvia cae
 Dialogue: 0,1:26:38.91,1:26:41.90,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}nante kirei na no
-Dialogue: 0,1:26:38.91,1:26:41.90,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}They're so beautiful
+Dialogue: 0,1:26:38.91,1:26:41.90,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Qué hermosa es
 Dialogue: 0,1:26:41.90,1:26:45.03,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}soodasui mitai ni ne
-Dialogue: 0,1:26:41.90,1:26:45.03,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Like soda water
+Dialogue: 0,1:26:41.90,1:26:45.03,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Es como agua mineral
 Dialogue: 0,1:26:45.03,1:26:48.20,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}machi no akubi wo tomeru no
-Dialogue: 0,1:26:45.03,1:26:48.20,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}They liven up the town
+Dialogue: 0,1:26:45.03,1:26:48.20,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Trae ritmo a la ciudad
 Dialogue: 0,1:26:48.20,1:26:51.47,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}santsubu kazoete
-Dialogue: 0,1:26:48.20,1:26:51.47,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}I count three droplets
+Dialogue: 0,1:26:48.20,1:26:51.47,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Cuento tres gotas
 Dialogue: 0,1:26:51.47,1:26:54.66,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}ootsubu no wo odeko de kyacchi
-Dialogue: 0,1:26:51.47,1:26:54.66,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}And catch a big one on my forehead
+Dialogue: 0,1:26:51.47,1:26:54.66,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}Y con la frente atrapo a una grande
 Dialogue: 0,1:26:54.66,1:27:00.25,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}ame wa watashi ni hanashikakeru yo
-Dialogue: 0,1:26:54.66,1:27:00.25,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}The rain speaks to me
+Dialogue: 0,1:26:54.66,1:27:00.25,clubthinginsert,this shit is boring,0,0,0,fuck this,{\blur1.5}La lluvia comienza a hablarme
 Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\pos(1006.5,237)\frz9.504\c&H79C7CF&\b1}Rittsun
 Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&HA077CE&\b1\frz5.985\pos(1309.7,294.2)}Yui-Hirasawan
 Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&HA077CE&\b1\frz15.73\pos(1145.9,421.9)}Mugi
 Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&HCAA573&\b1\pos(1393.5,388.3)\frz7.127}Mio-chan
 Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&H79C7CF&\b1\frz5.289\pos(1700.4,385.5)}Azusa-chan
-Dialogue: 2,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\blur0.9\fnChange Tomorrow Today\fs54\c&HAC7FDC&\b1\pos(857.8,600)\frz359.5}After School\NTeatime
-Dialogue: 1,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\bord0.5\blur0.9\fnChange Tomorrow Today\fs54\c&H586861&\b1\pos(857.8,600)\frz359.5\3c&H586861&}After School\NTeatime
-Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\bord2\blur0.9\fnChange Tomorrow Today\fs54\c&H79C7CF&\b1\pos(857.8,600)\frz359.5\3c&H79C7CF&}After School\NTeatime
-Dialogue: 4,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&HCFBD90&\b1\frz2.259\pos(1108.9,685.5)}London
-Dialogue: 3,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord0.5\fnChange Tomorrow Today\fs60\c&HAC7FDC&\b1\frz2.259\pos(1108.9,685.5)\3c&HAC7FDC&}London
-Dialogue: 2,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord1.5\fnChange Tomorrow Today\fs60\c&H586861&\b1\frz2.259\pos(1108.9,685.5)\3c&H586861&}London
-Dialogue: 1,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord3\fnChange Tomorrow Today\fs60\c&HD9D9D9&\b1\frz2.259\pos(1108.9,685.5)\3c&HD9D9D9&}London
+Dialogue: 2,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\blur0.9\fnChange Tomorrow Today\fs54\c&HAC7FDC&\b1\pos(857.8,600)\frz359.5}Houkago\NTeatime
+Dialogue: 1,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\bord0.5\blur0.9\fnChange Tomorrow Today\fs54\c&H586861&\b1\pos(857.8,600)\frz359.5\3c&H586861&}Houkago\NTeatime
+Dialogue: 0,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\an7\bord2\blur0.9\fnChange Tomorrow Today\fs54\c&H79C7CF&\b1\pos(857.8,600)\frz359.5\3c&H79C7CF&}Houkago\NTeatime
+Dialogue: 4,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs60\c&HCFBD90&\b1\frz2.259\pos(1108.9,685.5)}Londres
+Dialogue: 3,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord0.5\fnChange Tomorrow Today\fs60\c&HAC7FDC&\b1\frz2.259\pos(1108.9,685.5)\3c&HAC7FDC&}Londres
+Dialogue: 2,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord1.5\fnChange Tomorrow Today\fs60\c&H586861&\b1\frz2.259\pos(1108.9,685.5)\3c&H586861&}Londres
+Dialogue: 1,1:27:45.50,1:27:47.80,nINJA TS,,0,0,0,,{\blur0.9\bord3\fnChange Tomorrow Today\fs60\c&HD9D9D9&\b1\frz2.259\pos(1108.9,685.5)\3c&HD9D9D9&}Londres
 Dialogue: 0,1:27:56.68,1:28:01.48,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{25}{21}{\blur1.5}ki{23}mi {42}ga {30}i{29}na{27}i {26}to {28}na{42}ni {42}mo {12}de{19}ki{26}na{16}i {65}yo
-Dialogue: 0,1:27:56.68,1:28:01.48,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I can’t do anything without you around
+Dialogue: 0,1:27:56.68,1:28:01.48,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}No puedo hacer nada sin ti
 Dialogue: 0,1:28:01.48,1:28:05.52,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{8}{21}{\blur1.5}ki{18}mi {38}no {13}go{24}ha{9}n {10}ga {15}ta{13}be{31}ta{26}i {172}yo
-Dialogue: 0,1:28:01.48,1:28:05.52,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I miss your cooking
+Dialogue: 0,1:28:01.48,1:28:05.52,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Quiero comer algo hecho por ti
 Dialogue: 0,1:28:05.52,1:28:08.35,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{57}{26}{\blur1.5}mo{13}shi {41}ki{32}mi {29}ga {11}ka{14}e{11}tte{18}ki{12}ta{13}ra
-Dialogue: 0,1:28:05.52,1:28:08.35,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}If you ever come back
+Dialogue: 0,1:28:05.52,1:28:08.35,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Si regresas a casa
 Dialogue: 0,1:28:08.35,1:28:14.24,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{4}{21}{\blur1.5}to{17}bi{8}k{21}ki{16}ri {13}no {15}e{26}ga{15}o {32}de{37} {55}da{54}ki{39}tsu{44}ku {165}yo
-Dialogue: 0,1:28:08.35,1:28:14.24,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I'll cling on to you with a huge smile
+Dialogue: 0,1:28:08.35,1:28:14.24,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Te abrazaré con una gran sonrisa
 Dialogue: 0,1:28:14.24,1:28:19.25,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{44}{20}{\blur1.5}ki{32}mi {48}ga{38} {29}i{26}na{30}i {29}to {13}a{18}ya{26}ma{25}re{42}na{18}i {56}yo
-Dialogue: 0,1:28:14.24,1:28:19.25,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I can’t say sorry without you around
+Dialogue: 0,1:28:14.24,1:28:19.25,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}No puedo disculparme si no estás
 Dialogue: 0,1:28:19.25,1:28:23.50,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{21}{29}{\blur1.5}ki{33}mi {23}no {32}ko{26}e {44}ga {48}ki{23}ki{54}ta{50}i {36}yo
-Dialogue: 0,1:28:19.25,1:28:23.50,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I want to hear your voice
+Dialogue: 0,1:28:19.25,1:28:23.50,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Quiero escuchar tu voz
 Dialogue: 0,1:28:23.50,1:28:28.34,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{42}{13}{\blur1.5}ki{30}mi {37}no{49} {26}e{33}ga{23}o {29}ga {29}mi{56}re{54}re{57}ba
-Dialogue: 0,1:28:23.50,1:28:28.34,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I would be content
+Dialogue: 0,1:28:23.50,1:28:28.34,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Si pudiera ver tu sonrisa
 Dialogue: 0,1:28:28.34,1:28:32.63,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{34}{26}{\blur1.5}so{30}re {27}da{30}ke {28}de {52}i{59}i{53}n{29} {29}da {26}yo
-Dialogue: 0,1:28:28.34,1:28:32.63,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}If I could only see your smile again
+Dialogue: 0,1:28:28.34,1:28:32.63,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Me sería más que suficiente
 Dialogue: 0,1:28:32.63,1:28:37.43,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{30}{28}{\blur1.5}ki{30}mi {35}ga{20} {29}so{29}ba {38}ni{20} {20}i{34}ru {85}da{31}ke {46}de
-Dialogue: 0,1:28:32.63,1:28:37.43,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}You gave me courage
+Dialogue: 0,1:28:32.63,1:28:37.43,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Con solo estar a tu lado
 Dialogue: 0,1:28:37.43,1:28:42.22,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{11}{24}{\blur1.5}i{29}tsu{34}mo{25} {26}yu{29}u{41}ki{18} {19}mo{39}ra{75}t{34}te{73}ta
-Dialogue: 0,1:28:37.43,1:28:42.22,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Just by being near me
+Dialogue: 0,1:28:37.43,1:28:42.22,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Me has llenado de valor
 Dialogue: 0,1:28:42.22,1:28:46.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{11}{17}{\blur1.5}i{17}tsu {25}ma{29}de {26}de{78}mo{34} {16}i{16}s{28}sho {28}ni {29}i{58}ta{31}i
-Dialogue: 0,1:28:42.22,1:28:46.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I want to be together forever
+Dialogue: 0,1:28:42.22,1:28:46.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Quiero estar contigo para siempre
 Dialogue: 0,1:28:46.70,1:28:51.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{23}{28}{\blur1.5}ko{32}no {24}ki{26}mo{28}chi {30}wo {30}tsu{29}ta{27}e{84}ta{30}i {37}yo
-Dialogue: 0,1:28:46.70,1:28:51.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}So I'm trying to get these feelings across
+Dialogue: 0,1:28:46.70,1:28:51.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Quiero que entiendas mis sentimientos
 Dialogue: 0,1:28:51.04,1:28:55.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{0}{32}{\blur1.5}ha{48}re {32}no{16} {48}hi {48}ni {32}mo{16} {16}a{48}me {48}no {48}hi {32}mo
-Dialogue: 0,1:28:51.04,1:28:55.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Rain or shine
+Dialogue: 0,1:28:51.04,1:28:55.70,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}En los días soleados y en los días lluviosos
 Dialogue: 0,1:28:55.70,1:29:00.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{18}{16}{\blur1.5}ki{33}mi {32}wa{23} {27}so{28}ba {38}ni{21} {26}i{30}te {82}ku{27}re{79}ta
-Dialogue: 0,1:28:55.70,1:29:00.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}You stayed by my side
+Dialogue: 0,1:28:55.70,1:29:00.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Estuviste a mi lado
 Dialogue: 0,1:29:00.58,1:29:02.75,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{5}{13}{\blur1.5}me {11}wo {31}to{32}ji{26}re{97}ba
-Dialogue: 0,1:29:00.58,1:29:02.75,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}When I close my eyes
+Dialogue: 0,1:29:00.58,1:29:02.75,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Cuando cierro los ojos
 Dialogue: 0,1:29:02.75,1:29:09.17,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{15}{20}{\blur1.5}ki{12}mi {26}no {28}e{31}ga{86}o{24} {29}ka{51}ga{58}ya{59}i{56}te{139}ru
-Dialogue: 0,1:29:02.75,1:29:09.17,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I can see your radiant smile
+Dialogue: 0,1:29:02.75,1:29:09.17,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Veo tu radiante sonrisa
 Dialogue: 0,1:29:32.14,1:29:36.66,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{25}{31}{\blur1.5}ki{25}mi {35}no{16} {33}mu{31}ne {29}ni{27} {26}to{29}do{72}ku{12} {29}ka{26}na
-Dialogue: 0,1:29:32.14,1:29:36.66,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I wonder if my voice will reach your heart
+Dialogue: 0,1:29:32.14,1:29:36.66,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Me pregunto si podré alcanzar tu corazón
 Dialogue: 0,1:29:36.66,1:29:41.45,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{31}{28}{\blur1.5}i{26}ma {34}wa{20} {25}ji{39}shi{24}n{24} {30}na{29}i {88}ke{28}re{48}do
-Dialogue: 0,1:29:36.66,1:29:41.45,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I'm completely broken down right now
+Dialogue: 0,1:29:36.66,1:29:41.45,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Estoy muy ansiosa ahora mismo
 Dialogue: 0,1:29:41.45,1:29:46.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{32}{18}{\blur1.5}wa{16}ra{27}wa{29}na{26}i{70}de{42} {22}do{10}u {22}ka {32}ki{29}i{78}te
-Dialogue: 0,1:29:41.45,1:29:46.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}So don't laugh and just listen
+Dialogue: 0,1:29:41.45,1:29:46.04,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Pero escúchame atentamente
 Dialogue: 0,1:29:46.04,1:29:50.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{32}{28}{\blur1.5}o{32}mo{24}i {32}wo {24}u{29}ta {30}ni {28}ko{27}me{82}ta {34}ka{46}ra
-Dialogue: 0,1:29:46.04,1:29:50.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I'm putting my feelings into this song
+Dialogue: 0,1:29:46.04,1:29:50.58,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Vacié mis sentimientos en una canción
 Dialogue: 0,1:29:50.58,1:29:54.93,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{8}{29}{\blur1.5}a{36}ri{45}t{29}ta{29}ke {35}no{16} {34}a{30}ri{85}ga{32}to{26}u
-Dialogue: 0,1:29:50.58,1:29:54.93,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I'm writing this song
+Dialogue: 0,1:29:50.58,1:29:54.93,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Quiero darte las gracias por todo
 Dialogue: 0,1:29:54.93,1:30:00.02,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{29}{27}{\blur1.5}u{26}ta {31}ni{21} {34}no{26}se{43}te{19} {26}to{27}do{82}ke{34}ta{77}i
-Dialogue: 0,1:29:54.93,1:30:00.02,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}So you know how grateful I am
+Dialogue: 0,1:29:54.93,1:30:00.02,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Sé que una canción no es suficiente
 Dialogue: 0,1:30:00.02,1:30:08.90,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{7}{11}{\blur1.5}ko{14}no {26}ki{27}mo{27}chi {82}wa{45} {12}zu{8}t{18}to {35}zu{21}t{78}to{42} {20}wa{68}su{49}re{62}na{59}i {166}yo
-Dialogue: 0,1:30:00.02,1:30:08.90,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}I will never ever forget these feelings
+Dialogue: 0,1:30:00.02,1:30:08.90,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Nunca olvidaré estos sentimientos
 Dialogue: 0,1:30:08.90,1:30:17.00,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{34}{26}{\blur1.5}o{54}mo{59}i {219}yo{66} {27}to{14}do{307}ke
-Dialogue: 0,1:30:08.90,1:30:17.00,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}So I hope they reach you
+Dialogue: 0,1:30:08.90,1:30:17.00,clubthinginsert 2,this shit is boring,0,0,0,fuck this,{\blur1.5}Por favor, acéptalos
 Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs30\frz9.504\c&H9DBCB8&\b1\pos(1165.3,305.3)}Rittsun
 Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs39\c&H9483AC&\b1\pos(1388.4,350.2)\frz5.372}Yui-Hirasawan
 Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs39\c&H9483AC&\b1\frz15.73\pos(1233.9,388.5)}Mugi
 Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs42\c&H988C73&\b1\frz7.127\pos(1394.8,424.3)}Mio-chan
 Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs36\c&H9DBCB8&\b1\frz5.289\pos(1535,421.5)}Azusa-chan
-Dialogue: 2,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\blur0.9\fnChange Tomorrow Today\fs36\c&H9483AC&\b1\frz0.1359\pos(1109.8,607.5)}After School\NTeatime
-Dialogue: 1,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\bord0.5\blur0.9\fnChange Tomorrow Today\fs36\c&H333B34&\b1\3c&H333B34&\frz0.1359\pos(1109.8,607.5)}After School\NTeatime
-Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\bord2\blur0.9\fnChange Tomorrow Today\fs36\c&H9DBCB8&\b1\3c&H9DBCB8&\frz0.1359\pos(1109.8,607.5)}After School\NTeatime
-Dialogue: 4,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs39\c&H988C73&\b1\pos(1359.2,628.9)\frz7.276}Back from London!
-Dialogue: 3,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord0.5\fnChange Tomorrow Today\fs39\c&H9483AC&\b1\3c&H9483AC&\pos(1359.2,628.9)\frz7.276}Back from London!
-Dialogue: 2,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord1.5\fnChange Tomorrow Today\fs39\c&H333B34&\b1\3c&H333B34&\pos(1359.2,628.9)\frz7.276}Back from London!
-Dialogue: 1,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord3\fnChange Tomorrow Today\fs39\c&HADB1AD&\b1\3c&HADB1AD&\pos(1359.2,628.9)\frz7.276}Back from London!
-Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs36\c&H9483AC&\b1\frz0.7997\pos(1450.7,836.1)}International Schoolgirls
-Dialogue: 1,1:35:05.90,1:35:09.49,nINJA TS,,0,0,0,,{\fnThe Rifleman\fs30\b1\pos(939,270)\blur0.3\c&H3A8C72&}Yui's Room
-Dialogue: 0,1:35:05.90,1:35:09.49,nINJA TS,,0,0,0,,{\fnThe Rifleman\fs30\b1\pos(939,270)\blur0.3\\3c&H275B4A&\4c&H275B4A&\bord1\shad1.5}Yui's Room
-Dialogue: 1,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\fs60\c&HF9F8F9&\blur0.9\pos(820.5,112.5)}E-mail
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\fs60\1a&HFF&\blur0.9\pos(820.5,112.5)\3c&H7D6C51&\bord2}E-mail
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\fscy85\fscx110\blur1.7\c&H706462&\pos(1027.5,307.5)}Ui here
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\fscy85\fscx110\blur1.7\c&H706462&\pos(858,255)}Ui
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\fs60\blur1.7\c&H706462&\pos(936,490.5)}Don't worry about anything.
-Dialogue: 1,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\pos(1147.5,876)\blur0.9\fs60\c&HE7E4E4&}Reply
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\pos(1147.5,876)\blur0\1a&HFF&\bord2.5\fs60\3c&H0A0606&}Reply
-Dialogue: 1,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\pos(760.5,876)\blur0.9\fs60\c&HE7E4E4&}Menu
-Dialogue: 0,1:36:17.14,1:36:20.02,Sign #6,,0,0,0,,{\pos(760.5,876)\blur0.9\1a&HFF&\bord2.5\fs60\3c&H0A0606&}Menu
-Dialogue: 0,1:36:58.77,1:37:02.02,nINJA TS,,0,0,0,,{\fad(0,1477)\fnFansub Block\c&HE8EAEC&\fscx173\fscy450\pos(613.5,832.5)\clip(m 0 744 l 1288.5 745.5 1285.5 969 -1.5 969)}AAAAAAAAAAAA
-Dialogue: 1,1:36:58.77,1:37:02.02,Sign #5,,0,0,0,,{\fad(0,1477)\c&H5D4D51&\fs90\blur1.1\fscy200\fscx180\pos(579,841)}{\1c&H857899&}G{\1c&H7C728C&}r{\1c&H766F85&}a{\1c&H716B7D&}d{\1c&H6A6874&}u{\1c&H66636D&}a{\1c&H635F69&}t{\1c&H605D66&}i{\1c&H5E5A63&}o{\1c&H5A565E&}n{\1c&H59545C&} {\1c&H5A555E&}C{\1c&H5A5660&}e{\1c&H5B5762&}r{\1c&H5B5863&}e{\1c&H57535C&}m{\1c&H544F56&}o{\1c&H504A50&}n{\1c&H4D464A&}y
-Dialogue: 0,1:38:52.80,1:38:58.14,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\fax0.2\blur0.9\frz270.9\pos(1560,288)}To Tsumugi-senpai
-Dialogue: 0,1:38:52.80,1:38:56.05,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9}To Ritsu-senpai
-Dialogue: 0,1:38:52.80,1:38:58.14,agenda,,0,0,0,,{\c&H313234&\fs33\blur0.8\fay-0.25\fax0.28\pos(816,507)}To Yui-senpai
-Dialogue: 0,1:38:56.05,1:38:56.17,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 231 l 1449 226.5 1456.5 219 1461 213 1461 207 1465.5 195 1464 189 1464 180 1461 175.5 1458 172.5 1456.5 168 1452 163.5 1359 172.5)}To Ritsu-senpai
-Dialogue: 0,1:38:56.17,1:38:56.55,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9}To Ritsu-senpai
-Dialogue: 0,1:38:56.55,1:38:56.68,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 228 l 1441.5 223.5 1449 216 1453.5 210 1453.5 204 1458 192 1456.5 186 1456.5 177 1453.5 172.5 1450.5 169.5 1449 165 1444.5 160.5 1351.5 169.5)}To Ritsu-senpai
-Dialogue: 0,1:38:56.68,1:38:56.80,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 231 l 1449 226.5 1456.5 219 1461 213 1461 207 1465.5 195 1464 189 1464 180 1461 175.5 1458 172.5 1456.5 168 1452 163.5 1359 172.5)}To Ritsu-senpai
-Dialogue: 0,1:38:56.80,1:38:56.93,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 228 l 1441.5 223.5 1449 216 1453.5 210 1453.5 204 1458 192 1456.5 186 1456.5 177 1453.5 172.5 1450.5 169.5 1449 165 1444.5 160.5 1351.5 169.5)}To Ritsu-senpai
-Dialogue: 0,1:38:56.93,1:38:57.05,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 232.5 l 1449 228 1456.5 220.5 1461 214.5 1461 208.5 1465.5 196.5 1464 190.5 1464 181.5 1461 177 1458 174 1456.5 169.5 1452 165 1359 174)}To Ritsu-senpai
-Dialogue: 0,1:38:57.05,1:38:57.18,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 226.5 l 1441.5 222 1449 214.5 1453.5 208.5 1453.5 202.5 1458 190.5 1456.5 184.5 1456.5 175.5 1453.5 171 1450.5 168 1449 163.5 1444.5 159 1341 162)}To Ritsu-senpai
-Dialogue: 0,1:38:57.18,1:38:57.55,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9}To Ritsu-senpai
-Dialogue: 0,1:38:57.55,1:38:57.68,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 226.5 l 1441.5 222 1449 214.5 1453.5 208.5 1453.5 202.5 1458 190.5 1456.5 184.5 1456.5 175.5 1453.5 171 1450.5 168 1449 163.5 1444.5 159 1341 162)}To Ritsu-senpai
-Dialogue: 0,1:38:57.68,1:38:57.80,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 232.5 l 1449 228 1456.5 220.5 1461 214.5 1461 208.5 1465.5 196.5 1464 190.5 1464 181.5 1461 177 1458 174 1456.5 169.5 1452 165 1348.5 168)}To Ritsu-senpai
-Dialogue: 0,1:38:57.80,1:38:57.93,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1429.5 226.5 l 1438.5 222 1446 214.5 1450.5 208.5 1450.5 202.5 1455 190.5 1453.5 184.5 1453.5 175.5 1450.5 171 1447.5 168 1446 163.5 1441.5 159 1338 162)}To Ritsu-senpai
-Dialogue: 0,1:38:57.93,1:38:58.14,agenda,,0,0,0,,{\c&H8B8B8B&\fs33\frz264\pos(1470,126)\fax0.15\blur0.9}To Ritsu-senpai
+Dialogue: 2,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\blur0.9\fnChange Tomorrow Today\fs36\c&H9483AC&\b1\frz0.1359\pos(1109.8,607.5)}Houkago\NTeatime
+Dialogue: 1,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\bord0.5\blur0.9\fnChange Tomorrow Today\fs36\c&H333B34&\b1\3c&H333B34&\frz0.1359\pos(1109.8,607.5)}Houkago\NTeatime
+Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\an7\bord2\blur0.9\fnChange Tomorrow Today\fs36\c&H9DBCB8&\b1\3c&H9DBCB8&\frz0.1359\pos(1109.8,607.5)}Houkago\NTeatime
+Dialogue: 4,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs39\c&H988C73&\b1\pos(1359.2,628.9)\frz7.276}¡De regreso de Londres!
+Dialogue: 3,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord0.5\fnChange Tomorrow Today\fs39\c&H9483AC&\b1\3c&H9483AC&\pos(1359.2,628.9)\frz7.276}¡De regreso de Londres!
+Dialogue: 2,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord1.5\fnChange Tomorrow Today\fs39\c&H333B34&\b1\3c&H333B34&\pos(1359.2,628.9)\frz7.276}¡De regreso de Londres!
+Dialogue: 1,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\bord3\fnChange Tomorrow Today\fs39\c&HADB1AD&\b1\3c&HADB1AD&\pos(1359.2,628.9)\frz7.276}¡De regreso de Londres!
+Dialogue: 0,1:30:58.32,1:31:00.57,nINJA TS,,0,0,0,,{\blur0.9\fnChange Tomorrow Today\fs36\c&H9483AC&\b1\frz0.7997\pos(1450.7,836.1)}Chicas internacioales
+Dialogue: 1,1:35:05.90,1:35:09.49,nINJA TS,,0,0,0,,{\fnThe Rifleman\fs30\b1\pos(939,270)\blur0.3\c&H3A8C72&}Cuarto de Yui
+Dialogue: 0,1:35:05.90,1:35:09.49,nINJA TS,,0,0,0,,{\fnThe Rifleman\fs30\b1\pos(939,270)\blur0.3\\3c&H275B4A&\4c&H275B4A&\bord1\shad1.5}Cuarto de Yui
+Dialogue: 0,1:36:17.14,1:36:20.02,notes,,0,0,0,,{\3c&HFFFFFF&\c&H706462&}Ui: No tienes nada de qué preocuparte.
+Dialogue: 1,1:36:58.77,1:37:01.67,notes,,0,0,0,,{\3c&HFFFFFF&\c&H5D4D51&}Ceremonia de graduación
+Dialogue: 0,1:38:52.80,1:38:58.14,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\fax0.2\blur0.9\frz270.9\pos(1560,288)}Para Tsumugi-senpai
+Dialogue: 0,1:38:52.80,1:38:56.05,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9}Para Ritsu-senpai
+Dialogue: 0,1:38:52.80,1:38:58.14,agenda,,0,0,0,,{\c&H313234&\fs33\blur0.8\fay-0.25\fax0.28\pos(816,507)}Para Yui-senpai
+Dialogue: 0,1:38:56.05,1:38:56.17,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 231 l 1449 226.5 1456.5 219 1461 213 1461 207 1465.5 195 1464 189 1464 180 1461 175.5 1458 172.5 1456.5 168 1452 163.5 1359 172.5)}Para Ritsu-senpai
+Dialogue: 0,1:38:56.17,1:38:56.55,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9}Para Ritsu-senpai
+Dialogue: 0,1:38:56.55,1:38:56.68,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 228 l 1441.5 223.5 1449 216 1453.5 210 1453.5 204 1458 192 1456.5 186 1456.5 177 1453.5 172.5 1450.5 169.5 1449 165 1444.5 160.5 1351.5 169.5)}Para Ritsu-senpai
+Dialogue: 0,1:38:56.68,1:38:56.80,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 231 l 1449 226.5 1456.5 219 1461 213 1461 207 1465.5 195 1464 189 1464 180 1461 175.5 1458 172.5 1456.5 168 1452 163.5 1359 172.5)}Para Ritsu-senpai
+Dialogue: 0,1:38:56.80,1:38:56.93,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 228 l 1441.5 223.5 1449 216 1453.5 210 1453.5 204 1458 192 1456.5 186 1456.5 177 1453.5 172.5 1450.5 169.5 1449 165 1444.5 160.5 1351.5 169.5)}Para Ritsu-senpai
+Dialogue: 0,1:38:56.93,1:38:57.05,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 232.5 l 1449 228 1456.5 220.5 1461 214.5 1461 208.5 1465.5 196.5 1464 190.5 1464 181.5 1461 177 1458 174 1456.5 169.5 1452 165 1359 174)}Para Ritsu-senpai
+Dialogue: 0,1:38:57.05,1:38:57.18,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 226.5 l 1441.5 222 1449 214.5 1453.5 208.5 1453.5 202.5 1458 190.5 1456.5 184.5 1456.5 175.5 1453.5 171 1450.5 168 1449 163.5 1444.5 159 1341 162)}Para Ritsu-senpai
+Dialogue: 0,1:38:57.18,1:38:57.55,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9}Para Ritsu-senpai
+Dialogue: 0,1:38:57.55,1:38:57.68,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1432.5 226.5 l 1441.5 222 1449 214.5 1453.5 208.5 1453.5 202.5 1458 190.5 1456.5 184.5 1456.5 175.5 1453.5 171 1450.5 168 1449 163.5 1444.5 159 1341 162)}Para Ritsu-senpai
+Dialogue: 0,1:38:57.68,1:38:57.80,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1440 232.5 l 1449 228 1456.5 220.5 1461 214.5 1461 208.5 1465.5 196.5 1464 190.5 1464 181.5 1461 177 1458 174 1456.5 169.5 1452 165 1348.5 168)}Para Ritsu-senpai
+Dialogue: 0,1:38:57.80,1:38:57.93,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9\iclip(m 1429.5 226.5 l 1438.5 222 1446 214.5 1450.5 208.5 1450.5 202.5 1455 190.5 1453.5 184.5 1453.5 175.5 1450.5 171 1447.5 168 1446 163.5 1441.5 159 1338 162)}Para Ritsu-senpai
+Dialogue: 0,1:38:57.93,1:38:58.14,agenda,,0,0,0,,{\c&H8B8B8B&\fs26\frz264\pos(1470,126)\fax0.15\blur0.9}Para Ritsu-senpai
 Dialogue: 0,1:42:21.17,1:42:27.09,tensh,,0,0,0,,{\blur7.5}nee omoide no kakera ni
 Dialogue: 0,1:42:21.17,1:42:27.09,tensh,,0,0,0,,{\blur7.5}Say, if we took pieces of our memories
 Dialogue: 0,1:42:27.09,1:42:33.31,tensh,,0,0,0,,{\blur7.5}namae wo tsukete hozon suru nara
